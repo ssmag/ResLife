@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.kostas.reslife.activities.LivingInAthensActivity"
+    android:parentActivityName="com.example.kostas.reslife.activities.MainActivity"
+    android:background="@drawable/background2">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/liveathensimgview"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/livinginathenstitle"
+            android:background="@null" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="300dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/getstarted"
+                android:onClick="GetStartedBTN"
+                android:textColor="#080808"
+                android:textColorHighlight="#080808"
+                android:textColorHint="#080808"
+                android:textSize="26dp"
+                android:textStyle="bold"
+                android:src="@drawable/getting_started_inaghia_drawable"
+                android:background="@null" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/operhrs"
+                android:onClick="OperatingHoursBTN"
+                android:src="@drawable/operating_hours_shops_restaurants_drawable"
+                android:background="@null" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/mail"
+                android:onClick="MailBTN"
+                android:src="@drawable/mail_services_drawable"
+                android:background="@null" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/bankmoney"
+                android:onClick="BankingBTN"
+                android:src="@drawable/banking_and_money_drawable"
+                android:background="@null" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/keepintouch"
+                android:onClick="KeepinTouchBTN"
+                android:src="@drawable/keeping_in_touch_drawable"
+                android:background="@null" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+

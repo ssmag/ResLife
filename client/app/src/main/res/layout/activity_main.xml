@@ -1,0 +1,180 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.kostas.reslife.activities.MainActivity"
+    android:weightSum="1"
+    android:background="@drawable/background2"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/buddylogo"
+            android:layout_weight="0.45"
+            android:layout_marginLeft="8dp"
+            android:src="@drawable/acgbuddieslogo1" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/resilife_logo"
+            android:src="@drawable/reslife_logo2"
+            android:layout_weight="0.55" />
+
+    </LinearLayout>
+
+    <ImageButton
+        android:layout_width="109dp"
+        android:layout_height="30dp"
+        android:id="@+id/visit_philoxenia"
+        android:onClick="PhiloxeniaWebView"
+        android:text="Visit Philoxenia >>"
+        android:textSize="10dp"
+        android:background="@null"
+        android:textColor="#ffffff"
+        android:textColorHighlight="#b5b8e5"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/visit_philoxenia_drawable" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="right"
+        android:layout_weight="0.2">
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:id="@+id/studyderee"
+            android:layout_gravity="left"
+            android:src="@drawable/studying_at_deree_drawable"
+            android:layout_weight="0.5"
+            android:onClick="StudyingAtDereeBTN"
+            android:scaleType="fitCenter"
+            android:background="@null" />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:id="@+id/liveathens"
+            android:src="@drawable/liveathens_drawable"
+            android:background="@null"
+            android:layout_weight="0.5"
+            android:onClick="LivingInAthensBTN"
+            android:scaleType="fitCenter"/> <!--liveathens_drawable is called as src to set images in each situation-->
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2">
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:id="@+id/stayinghealthy"
+            android:src="@drawable/stayhealthy_drawable"
+            android:background="@null"
+            android:layout_weight="0.5"
+            android:onClick="StayHealthyΑndSafeBTN"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:id="@+id/travelgreece"
+            android:src="@drawable/travelgreece_drawable"
+            android:background="@null"
+            android:layout_weight="0.5"
+            android:onClick="TravellingInGreeceBTN"
+            android:scaleType="fitCenter"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2">
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:id="@+id/otherinfo"
+            android:src="@drawable/other_useful_info_drawable"
+            android:background="@null"
+            android:layout_weight="0.5"
+            android:onClick="OtherUsefulInfoBTN"
+            android:scaleType="fitCenter"/>
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:id="@+id/calendar"
+            android:src="@drawable/calendar_drawable"
+            android:layout_weight="0.5"
+            android:onClick="CalendarBTN"
+            android:scaleType="fitCenter"
+            android:background="@null" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="8dp">
+
+            <ImageButton
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:id="@+id/acgboard"
+                android:onClick="NewBlackboardWebView"
+                android:src="@drawable/acg_board_drawable"
+                android:background="@null"
+                android:scaleType="fitCenter"
+                android:layout_weight="0.5" />
+
+            <ImageButton
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:id="@+id/myacgportal"
+                android:layout_gravity="center_horizontal"
+                android:onClick="MyAcgWebView"
+                android:src="@drawable/my_acg_drawable"
+                android:background="@null"
+                android:scaleType="fitCenter"
+                android:layout_weight="0.5" />
+        </LinearLayout>
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/emergencycontact"
+            android:src="@drawable/emergency_drawable"
+            android:background="@null"
+            android:onClick="EmergencyContactsBTN"
+            android:scaleType="fitCenter"
+            android:layout_weight="0.5" />
+    </LinearLayout>
+</LinearLayout>

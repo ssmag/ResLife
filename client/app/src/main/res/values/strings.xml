@@ -1,0 +1,1583 @@
+<resources>
+    <string name="app_name">ResLife</string>
+
+
+
+
+    <string name="emergency_contact_string">
+        \n<font size="25"><b>Dormitories Address:</b></font>
+        \n
+        \n
+        \nRegion: Aghia Paraskevi, Athens
+        \nZip Code: 15342
+        \nAthanasiou Diakou 28 (R1)
+        \nAthanasiou Diakou 31 (R2-R3)
+        \n_________________________________
+        \n
+        \n<font size="25"><b>Call RA Phones:</b></font>
+        \n
+        \n
+        </string>
+
+    <string name="arrivalchecklist">
+        \n<font size="35"><b><u>Arrival Checklist</u></b></font>
+        \n
+        \n
+        \n<font size="25"><b>Here is a checklist to give you some guidance after your arrival in Athens:</b></font>
+        \n
+        \n• Contact your home to let your family know you have arrived safely
+        \n•	Attend Student Orientation on campus
+        \n•	If you have not already done so, ask the Office of Residential &amp; International Student Services staff for more information
+        \n•	Make a photocopy of your passport and keep it in a safe place
+        \n•	If applicable make an appointment with the Office of Residential &amp; International Student Services staff about obtaining your residence permit
+        \n•	Sign up for clubs and extra-curricular activities
+        \n
+        \n
+        \n<b>For Students living at ACG Residences</b>
+        \n
+        \n•	Attend the ACG Residences Welcome Reception
+        \n•	Review, complete and sign the apartment checklist with the resident assistant (RA)
+        \n•	Collect linen set, if pre-ordered
+        \n•	Review and sign the Rules and Regulations of living in ACG Residences.
+        \n
+        \n
+
+        \n<font size="25"><b>The Office of Residential &amp; International Student Services aids all study abroad and international students prior to arrival and for the duration of your time at ACG.</b></font>
+        \n
+        \n<b>The following are some of the main services we provide to our international students:</b>
+        \n
+        \n▪  	Visa issuance assistance
+        \n▪  	Courses pre-registration
+        \n▪  	International Students’ orientation
+        \n▪  	Organization of numerous events and outings
+        \n▪  	ACG Buddies &amp; Host Families
+        \n▪  	Residency permit issuance assistance
+        \n▪  	Excursions to unique cultural destinations of Greece
+        \n▪  	Residences’ management
+        \n▪  	Housing assistance for students
+        \n▪  	Emergency assistance for health and other issues
+        \n▪  	Incoming mail services for all residents
+    </string>
+
+    <string name="campus_services">
+        \n<font size="35"><b><u>Campus Services</u></b></font>
+        \n
+        \n
+        \n<font size="25"><b>DEREE is a U.S. accredited institution and as such there is a wealth of campus services to assist students, including the following:</b></font>
+        \n
+        \n<b><u>Student Success Center:</u></b>
+        \n
+        The Student Success Center (SSC) is a one-stop service point for all DEREE-ACG students. The SSC staff can help with certificates, registration, academic advising,
+        validation matters, transfer credit questions, tuition payment and any other general question about DEREE - The American College of Greece.
+        \n
+        \n<b><u>Student Affairs:</u></b>
+        \n
+        The Student Affairs team at DEREE is an enthusiastic group of individuals dedicated to providing programs and resources that educate students beyond the classroom, broadening their horizons, enabling them to think critically and creatively and develop their confidence so as to set and attain high goals. The SA team aims to enhance student life on campus so that DEREE students\'
+        college experience incorporates life skills that lead to lives of purpose, allowing them to become integral and significant members of society as ACG alumni!
+        \n
+        \n<b><u>Career Services:</u></b>
+        \n
+        Career Services helps students and alumni chart their professional course toward achieving fulfilling and rewarding careers. Two major goals of this office is:
+	    \n•	To ensure that ACG students’ investment in skills and knowledge is effectively integrated and reflected in his/her chosen career path.
+	    \n•	To foster and maintain relationships with companies in order to facilitate communication with students or alumni seeking employment opportunities.
+        \n
+        \n<b><u>Counseling Center:</u></b>
+        \n
+        If you wish to discuss concerns or personal matters that you may have with a professional counselor,
+        one-on-one confidential counseling is available at DEREE provided by qualified professional counselors.
+        \n
+        \n<b><u>Computer Labs:</u></b>
+        \n
+        \nACG has two major computer labs.
+        \n
+	    \n•	The first lab is at our state-of-the-art lab located in the Arts Building next to Starbucks features 36 PCs and 4 Macintosh computers, flat screen TVs for College announcements, laser and inkjet printers.
+	    \n•	The second lab is located in the Communications Building (the ‘CN’), features all PCs, and inkjet and laser printers.
+        \n
+        \n*Both labs are staffed by lab assistants.
+        \n
+        \n<b><u>Library Services:</u></b>
+        \n
+        ACG’s library is an invaluable resource for students. Library services include borrowing books, course reserves, computer use, printing, requesting library instructions and recommendations for resources.
+        Our library staff is very knowledgeable and friendly – and always ready to assist students!
+        \n
+        \n<b><u>Athletics:</u></b>
+        \n
+        ACG’s state-of-the-art fitness center provides students with a full range of fitness equipment. ACG also provides access to an Olympic-size swimming pool, soccer field and track, basketball arena, climbing wall,
+        tennis courts and more! There are also plenty of intercollegiate teams and intramural sports to choose from.
+        \n
+        \n<b><u>Medical Services:</u></b>
+        \n
+        DEREE offers limited medical care for students, faculty, and staff. Nursing coverage includes non-emergency health issues, such as colds,
+        flues, and minor aches and pains. These health services are complimentary for all DEREE students.
+        \n
+        \n<b><u>Dining Services:</u></b>
+        \nWe offer three on-campus dining options for our students:
+	    \n•	The “Dipnosofistirion” food hall
+	    \n•	The CN snack bar
+	    \n•	Starbucks</string>
+    <string name="buying_books">
+        \n<font size="35"><b><u>Buying Books</u></b></font>
+        \n
+        \n
+        \n
+        DEREE-ACG students will find the required course textbook list on the College website in advance of each semester/session. This practice makes the book acquisition process more efficient and less expensive for students. Students are free to choose how they will purchase their textbooks and are expected to acquire them prior to the start of classes.
+        To avoid delays with some on-line providers, it is recommended that you place your order a minimum of 21 days in advance.
+    </string>
+
+    <string name="registration_grades_transcripts">
+        \n<font size="35"><b><u>Registration, Grades &amp; Transcripts</u></b></font>
+        \n
+        \n
+        \n<b><u>Adding or Dropping a Course:</u></b>
+        \n
+        If you need to add or drop a course, Study Abroad students should first confirm this with the Office of Residential &amp; International Student Services, and then make any necessary changes at the Student Success Center. International students should consult
+        with their advisor first and then make any necessary changes with the Student Success Center. Customary fees may apply.
+        \n
+        \n<b><u>Checking Grades:</u></b>
+        \n
+        During student orientation, you will receive instructions on how to use our online registration portal - myACG Portal- where you can check course schedules, grades,
+        and unofficial transcripts. We will supply you with usernames and passcodes to access the myACG portal.
+        \n
+        \n<b><u>Transcripts:</u></b>
+        \n
+        We will mail an official transcript of your grades back to your home institution after your session, semester or year abroad at ACG.
+        Please provide the contact information of your home institution registrar’s office to the ACG Student Success Center upon your arrival.
+        \n
+        \n<b><u>Credit Transfer:</u></b>
+        \n
+        Please be aware: for study abroad students, it is ultimately the student’s responsibility to verify that the courses taken at
+        DEREE- The American College of Greece will transfer back to the home institution.
+    </string>
+    <string name="residence_permit">
+        \n<font size="35"><b><u>Residence Permit</u></b></font>
+        \n
+        \n
+        \n
+        In order to live and study in Greece, or any other E.U. country, beyond the validity of your original Schengen or national visa you will need a residence permit. If you know that you will be staying longer than what your entry visa states (i.e. degree-seeking students or study-abroad students staying for more than one semester) it is mandatory that you apply for a residence permit as soon as you arrive in Greece. The Office of
+        Residential and International Student Services will assist you with the process of applying for and getting a residence permit.
+    </string>
+
+    <string name="important_campus_info">
+        \n<font size="35"><b><u>Important Campus Contact Information:</u></b></font>
+        \n
+        \n
+        \n
+    </string>
+
+    <string name="getting_started_inaghia_before_the_map">
+        \n<font size="35"><b><u>Getting Started in Aghia Paraskevi</u></b></font>
+        \n
+        \n
+        \n<b><u>The map below features important places to know to get started exploring Aghia Paraskevi.</u></b>
+        \n
+        \n<b>A:</b>	The American College of Greece, 6 Gravias Street
+        \n<b>B:</b>	Local cafes, mini-market and stationary store
+        \n<b>C:</b> Residences, Athanasiou Diakou Street
+        \n<b>D:</b>	Pharmacy
+        \n<b>E:</b>	Super Market, corner of Aghiou Ioannou &amp; Anthypolohagou Tassopoulou Streets
+        \n<b>F:</b>	Aghiou Ioannou Square; bus stop for B5 leading to Metro station(s), from the corners of Aghiou Ioannou Street and Anthypolohagou Tassopoulou Street
+        \n<b>G:</b>	Post Office
+        \n<b>H:</b>	Kiosk and mini-market, corner of Aghiou Ioannou Street &amp; Anthypolohagou Tassopoulou Street
+        \n<b>I:</b>	Aghia Paraskevi Church (in the main square also called Aghia Paraskevi Square), Aghiou Ioannou Street (leading up to Aghiou Ioannou Square &amp; Mesogeion Avenue)
+        \n
+        \n
+        \nNumerous restaurants, shops and cafes are located along Aghiou Ioannou Street from campus to the main square.
+</string>
+    <string name="getting_started_inaghia_after_the_map">
+        \n<b><u>Directions from ACG Residence to the ACG Campus:</u></b>
+        \n
+        \n
+        Leaving from the Residences, turn left and walk along Athanasiou Diakou Street. At 150 meters, turn left onto Pefkakion Street. At the end of this street, turn right into Gravias Street and with the college’s fence line on your left,
+        continue forward for 150 meters. The gate is on your left.
+    </string>
+
+    <string name="operating_hours_shops_and_restaurants">
+        \n<font size="35"><b><u>Operating Hours Shops and Restaurants</u></b></font>
+        \n
+        \n
+        \n
+        Aghia Paraskevi has a wide variety of retail shops, located on and around the main street, Aghiou Ioannou. It is important to know the typical operating hours.
+        Please note that not all stores have exactly the same schedule, so we are providing typical operating hours:
+        \n
+        \n<font size="25"><b>Typical Local Retail Store Hours:</b></font>
+        \nMonday and Wednesday: 9.00am-3.00pm
+        \nTuesday, Thursday and Friday: 9.00am-3.00pm and 5.00pm-9.00pm
+        \nSaturday: 9.00am-3.00pm
+        \nSunday: CLOSED
+        \n
+        \n<font size="25"><b>Typical Grocery Store Hours:</b></font>
+        \nMonday through Friday: 9.00am-8.00pm
+        \nSaturday: 9.00am-6.00pm
+        \nSunday: CLOSED
+        \n
+        \n<font size="25"><b>Typical Pharmacy Hours:</b></font>
+        \nMonday and Wednesday: 9.00am- 3.00pm
+        \nTuesday, Thursday and Friday: 9.00am- 3.00pm and 5.00pm- 9.00pm
+        \nSaturday and Sunday: CLOSED but you can
+        \nfind the ones that are in operation for emergencies. Their details are posted on the entrance of each Pharmacy shop.
+        \nLarger supermarkets like Carrefour, Carrefour Marinopoulos, LIDL and AB Vassilopoulos located along Mesogeion Avenue are open until 8.00pm on Saturdays.
+        \n
+        \n<font size="25"><b>Restaurants and Cafes</b></font>
+        \n
+        Restaurants are typically open between noon and midnight for take-out; if you are planning on dining in,
+        keep in mind that the dinner rush starts around 9.00pm, so some restaurants may not fire up the kitchen before 7.00pm.
+        \nCoffee shops hours vary, but those on Aghiou Ioannou Street are typically open from 10.00am to 1.00am.
+        If you’re on campus, you can always grab a bite or drink from either Starbucks, the Cn snack bar or the campus food hall, open when classes are in session (but closed during the holidays).
+</string>
+
+    <string name="mail_services_before_the_map">
+        \n<font size="35"><b><u>Mail Services</u></b></font>
+        \n
+        \n
+        \n<font size="25"><b>Mailing Address:</b></font>
+        \n
+        Incoming mail services are provided for students residing in the ACG Residences. Please provide the following mailing address for
+        your incoming mail from family and friends:
+        \n
+        \n<b>Your Name and Apartment Number
+        \nc/o Office of Residential and International Services
+        \n6 Gravias Street
+        \n153-42, Aghia Paraskevi\
+        \nAthens, Greece</b>
+        \n
+        \nIf there is a delivery charge for your package it is the responsibility of the student to pay the charge.
+        \n
+        \n
+        \n<font size="25"><b>Postal Services:</b></font>
+        \nThere is a post office in the main square of Aghia Paraskevi:
+        \n
+        \n
+        \n8 Aghiou Ioannou
+        \n153-01 Aghia Paraskevi
+        \n<a href="tel:+302106392125">Call 210.639.2125</a>
+        \nHours of Operation: 8:00am-2:00pm
+</string>
+
+    <string name="mail_services_after_the_map">
+        \n
+        \n<font size="25"><b>Buying Stamps:</b></font>
+        \n
+        \n
+        You can buy stamps at the local post office and at some kiosks (‘pe-ree-pte-ro’) depending on the area in Greece. To save time,
+        we recommended you buy Greek stamps for your primary mailing destination all at once. Keep in mind that stamps for a postcard or
+        letter within Europe will cost less than stamps to the USA.
+        \n
+        \n
+        \n<font size="25"><b>Mailing Important Letters or Packages:</b></font>
+        \n
+        \n
+        While it is fine to send postcards from Greek mailboxes, we highly recommend that you send important letters or packages registered (‘sys-tee-men-no’).
+        The minimum cost for postcard stamp or lightweight letter fir the U.S. is less than 1 Euro.
+        \n
+        \n
+        \n<font size="25"><b>Receiving Mail at the Greek Post Office:</b></font>
+        \n
+        \nHaving your mail sent to you while in Greece is easy!
+        \nAll you need to do is have all your books, personal items etc. sent to the following mailing address.
+        \n
+        \n<b>Your Name and Apartment Number
+        \nDeree- The American College of Greece- Office of Residential and International
+        \n6 Gravias Street
+        \n153-42, Aghia Paraskevi Athens, Greece</b>
+        \n
+        \nIn case a mailed item is not easy to transfer, you will need to pick it up from the nearby Post Office.
+        \nPicking up your mailed items requires that you present your passport and/or ID and the post office’s pick-up slip paper.
+ </string>
+
+    <string name="banking_money_tips">
+        \n<font size="35"><b><u>Banking &amp; Money Tips</u></b></font>
+        \n
+        \n
+        \n<font size="25"><b>Receiving Mail at the Greek Post Office</b></font>
+        \n
+        \nThe following banks –all with ATMs- are located on Aghiou Ioannou Street:
+	    \n•	Alpha Bank (44-46 Aghiou Ioannou Street)
+	    \n•	Eurobank (45 Aghiou Ioannou Street)
+	    \n•	Piraeus Bank (40 Aghiou Ioannou Street)
+        \n
+        \n
+        For your convenience, there is an ATM located on campus, next to the campus food hall. ATMs are also available outside every bank and operate 24/7.
+        \nShould you need to use services that require a visit to one of the many bank branches on Aghiou Ioannou Street, typical bank operating hours are as follow:
+        \nMonday through Thursday: 9:00am-2:00pm
+        \nFriday: 9:00am-1:30pm
+        \nSaturdays and Sundays: CLOSED
+        \n
+        \n
+        \n<font size="25"><b>Losing a Credit Card:</b></font>
+        \n
+        \n
+        You should make a photocopy or copy down important credit card information from the bank of your credit card, so you know where to call in case your credit card is lost or stolen.
+        \nAlso, if your possessions are lost or stolen, report the loss immediately to the local police. Keep a copy of the police report for insurance claims and as an explanation of your plight.
+        \nIn the unfortunate event that you lose your wallet and need to cancel your credit cards, you may also use these local numbers for the following cards:
+        \nAmerican Express: 	<a href="tel:+302103260000">210-326-0000</a>
+        \nDiners:  	 	<a href="tel:+302109290200">210-929-0200</a>
+        \nEurocard: 	 	<a href="tel:+302109503673">210-950-3673</a>
+        \nMasterCard: 	 	00-800-11-887-0303
+        \nVisa:   	 	00-800-11-638-0304
+        \n
+        \nYou will need to provide the following information:
+        \n•	Name of the card issuer
+        \n•	Type of card
+        \n•	Country where the card was issued
+        \n
+        \n<font size="25"><b>Tips for Handling Money Safely:</b></font>
+        \n
+        \n▪ Avoid carrying large amounts of cash.
+ 	    \n▪ In high tourist areas, put your wallet in your front pocket, your purse strapped across your torso, or use a money belt.
+ 	    \n▪ Do not flash large amounts of money when paying a bill.
+ 	    \n▪ Make sure your credit card is returned to you after each transaction.
+ 	    \n▪  Deal only authorized agents when you exchange money, buy airline tickets or purchase souvenirs. Do not change money on the black market.
+ 	    \n▪ If your possessions are lost or stolen, report the loss immediately to the local police.
+ 	    \n▪ Keep a copy of the police report for insurance claims and as an explanation of your plight.
+</string>
+
+    <string name="keeping_in_touch">
+        \n<font size="35"><b><u>Keeping in Touch</u></b></font>
+        \n
+        \n
+        \n<font size="25"><b>Cell Phones:</b></font>
+        \nAlthough international plans may work in Greece, we recommend you purchase a Greek SIM card or card phone –in case your telephone doesn’t accept SIM cards- to minimize calling costs. If your telephone does accept SIM cards, all you need to do is purchase a mobile phone connection from the kiosks near the College on Aghiou Ioannou Street. Cellular companies offering mobile phone connections are as follows: Vodafone, Cosmote, WIND.
+        Phone cards are also available at kiosks and range from 5 to 50 euros. To purchase a sim card, you may visit cellular phone providers,
+        which are located in walking distance from the College on Aghiou Ioannou Street: Vodafone, Cosmote and WIND.
+        \n
+        \n<b>Important Note:</b> When purchasing a card phone, you must have your passport with you.
+        \n
+        \n
+        \n<font size="25"><b>Dialing Internationally:</b></font>
+        \n
+        \nWhite pages information: 11888 and
+        \n<a href="http://www.xo.gr/?la=2">www.xo.gr</a>
+        \nWhite pages Information (outside Greece): 11889
+        \nCountry codes: 139 (country code for Greece is +30)
+        \n139 can also be used to ask for the number to place a collect call to your country
+        \nTo call outside Greece dial: 00 + Country code + Area Code + Tel. Number.
+        \nExample: US- 00-1-212-555-5555,
+        \nEurope (France) – 00-33-6-1234-5678
+</string>
+
+    <string name="Health">
+        \n<font size="35"><b><u>Health\</u></b></font>
+        \n
+        \n
+        \n<font size="25"><b>International Health Insurance</b></font>
+        \n
+        \n
+        All international students are required to have international health insurance to cover any illnesses and accidents.
+        Proof of international health insurance must be provided prior to arrival. Your home institution may provide health insurance for study abroad students,
+        so please check with your study abroad office.
+        \n
+        \n<font size="25"><b>Medical Prescriptions</b></font>
+        \n
+        \n
+        Obtain all medical prescriptions, copies of the prescriptions, and adequate supplies for your stay in Athens. Keep these in your carry-on luggage in its original container.
+        If you need to fill a prescription while you are in Athens, we recommend the pharmacy located across the street from the college’s main gate.
+        The pharmacist at this pharmacy speaks English.
+        \n
+        \n<font size="25"><b>Health Services at DEREE</b></font>
+        \n
+        \nWe have two nurses working on campus that provide limited medical care for our students. Also, feel free to visit the Wellness Center for:
+        \n•	3 Health Checks
+        \n•	3 Health Counseling
+        \n•	3 Nutrition Services
+        \n
+        If you experience acute culture shock or wish to discuss personal matters with a professional counselor, one-one confidential counseling is
+        available at DEREE provided by qualified counseling professionals in a private setting.
+        These health services are complimentary for all DEREE students.
+        \n
+        \n<font size="25"><b>Hospitals</b></font>
+        \n
+        \nIn the event you are seriously ill and need to go to the
+        hospital, the following private hospitals are close to
+        DEREE:
+        \n<font size="25"><b>IASO General Hospital</b></font>
+        \n264 Mesogeion Ave.
+        \n155 62 Holargos Telephone Center: <a href="tell:210650200">210-650-2000</a>
+        \n<a href="http://www.iaso.gr/en/group/index.html">www.iaso.gr</a>
+        \n
+        \n<font size="25"><b>HYGEIA Hospital</b></font>
+        \n4 Erythrou Stavrou Street &amp; Kifisias Avenue
+        \n151 23 Marousi Telephone Center: <a href="tel:2106867000">210-686-7000</a>
+        \n<a href="http://www.hygeia.gr/default.aspx">www.hygeia.gr</a>
+        \nIn addition, SOS DOCTORS is the first Greek organization of free-lance, specialized doctors, with the exclusive purpose of providing 24-hour home medical services in emergencies.
+        \n
+        \n<font size="25"><b>SOS Doctors</b></font>
+        \n1 Ipirou Str., 104 33 Athens
+        \n24h Telephone Center: <a href="tel:1016">1016</a> &amp; <a href="tel:2108211888">210-821-1888</a>
+        \nInformation: <a href="http://www.sosiatroi.gr/en/about-us.html">www.sosiatroi.gr</a>
+        \nPrice list:
+        \n<a href="http://www/sosiatroi.gr/en/services/services-pricelist.html">SOS Doctors\' Pricelist</a>
+        \n
+        \nStudents living in the ACG Residences, may also wish to contact the Residence Assistant for help or to
+        contact any one of the Office of Residential &amp; International Student Services emergency contact numbers.
+</string>
+
+    <string name="culture_shock">
+        \n<font size="35"><b><u>Culture Shock</u></b></font>
+        \n
+        \n<font size="25"><b>Common Symptoms of Culture Shock:</b></font>
+        \n•	A feeling of sadness and loneliness
+        \n•	An over-concern for your health
+        \n•	Headaches, pains and allergies
+        \n•	Insomnia or excessive sleeping
+        \n•	Feelings of anger, depression, vulnerability
+        \n•	Idealizing your own culture
+        \n•	Feeling lost or confused
+        \n•	Feeling shy or insecure
+        \n•	Overwhelming sense of homesickness
+        \n•	Trying too hard to adapt and becoming obsessed with the new culture
+        \n•	Questioning your decision to visit Athens
+        \n
+        \nYou may have one or a combination of these symptoms; it is very individual.
+        \n
+        \n
+        \n<font size="25"><b>Dealing with Culture Shock</b></font>
+        \n
+        \n
+        \nThere are several things you can do to help yourself through the stages of culture shock.
+        \nFirst, fight the urge to retreat and be alone.
+        \nInstead get involved: join a club, try out for a sports team, or talk to other students in your classes.
+        \n•	Be sure to go out and explore your neighborhood. Go on all the school excursions and go on a few on your own. Read more about the culture, history and the people.
+        \n•	Also try to relax your grip on your own culture so you can be open to learning and understanding
+        \n•	Try not to give into the temptation of criticizing your host culture
+        \n•	Consciously seek logical reasons behind everything that seems strange, difficult , confusing or threatening
+        \n•	Try to look at every aspect of your experience from the perspective of your hosts
+        \n•	Resist making derogatory jokes or comments to your host culture and avoid people who do this
+        \n•	Get to know people in your new surroundings whom you can ask questions about the new culture and confide in if you feel confused. This could be a fellow student, teacher or friend.
+        \n•	Remember, if you experience acute feelings of culture shock or wish to discuss personal matters you can do it by visiting a professional counselor at DEREE- The American College of Greece.
+        \n
+        \n
+        \n<i>The information in this section has been adapted or cited from the following sources:
+        \n<a href="http://www.moving.about.com">www.moving.about.com</a>,
+        \n<a href="http://www.kidshealth.org">kidshealth.org</a> ,
+        \nKohls, L.R. (1984) Survival Kit for Overseas Living. Intercultural Press, and NAU Pre-departure handbook.</i>
+</string>
+
+    <string name="safety">
+        \n<font size="35"><b><u>Safety</u></b></font>
+        \n
+        \n
+        \n<font size="25"><b>General Safety Study Abroad Students</b></font>
+        \n
+        \nBe especially cautious in or avoid areas where you may be more easily victimized.
+        \n•	Don’t use short cuts, narrow alleys or poorly lit streets
+        \n•	Try not to travel alone at night
+        \n•	Do not go to or leave bars alone or with strangers
+        \n•	Do not accept food or drink from strangers
+        \n•	Do not discuss travel plans or other personal matters with strangers
+        \n•	Let someone you know what your plans are. Keep them informed if you change your plans
+        \n•	A void scam artists by being wary of strangers who approach you and offer to be your guide or sell you something at bargain prices
+        \n•	Beware of pickpockets. They often have an accomplice who will: jostle you, ask you for directions or the time or distract you by creating disturbance
+        \n•	Wear the shoulder strap of your bag across your chest and walk with the bag away from the curb to avoid drive-by purse-snatchers
+        \n•	Avoid public demonstrations and other civil disturbances
+        \n•	Avoid walking by yourself in the areas of OMONOIA/VICTORIA after midnight.
+        \n•	Learn a few phrases in the local language or have them handy in written form so that you can signal your need for police or medical help
+        \n•	Make a note of emergency telephone numbers you may need: police, fire, your hotel, and the nearest U.S. embassy or consulate
+        \n•	If you are confronted, don’t fight back – give up your valuables
+        \n
+        \n<font size="25"><b>Hotel Safety</b></font>
+        \n
+        \nRead the fire safety instructions in your hotel room. Know how to report a fire, and be sure you know where the nearest fire exits and alternate exits are located.
+        \n•	Keep your hotel door locked at all times. Be sure of the identity of visitors before opening the door of your hotel room
+        \n•	Don’t meet strangers at your hotel room, or at unknown or remote locations. Meet visitors in the lobby
+        \n•	Do not leave money and other valuables in your hotel room while you are out. Use the hotel safe
+        \n•	If you are out late at night, let someone know when you expect to return
+        \n•	If you are alone, do not get on an elevator of there is a suspicious-looking person inside
+        \n•	Read the fire safety instructions in your hotel room. Know how to report a fire, and be sure you know where the nearest fire exits and alternate exits are located. (Count the doors between your room and the nearest exit; this could be a lifesaver if you have to crawl through a smoke-filled corridor.)
+        \n
+        \n<font size="25"><b>Avoiding Legal Difficulties</b></font>
+        \nWhen you are in a foreign country, you are subject to its laws and are under its jurisdiction.
+        It is your responsibility to be aware of the laws of Greece or other countries you may be visiting,
+        so you should familiarize yourself with legal expectations in the countries you will visit.
+        \n
+        \n<font size="25"><b>Drug Violations</b></font>
+        \n
+        \n
+        More than 1/3 of international citizens incarcerated abroad are held on drug charges.
+        Some countries do not distinguish between possession and trafficking, and many have mandatory sentences – even for possession of a small amount of marijuana or cocaine.
+        Others have been arrested for purchasing prescription drugs abroad in quantities that local authorities suspected were for commercial use.
+        If in doubt about foreign drug laws, ask local authorities or the nearest U.S. embassy or consulate.
+        \n
+        \n<i>This information has been adapted and reprinted from the Travel.State.Gov Web Site, a service of the Bureau of Consular
+        Affairs.
+        \nFor additional information, see the following Web site:
+        \n<a href="http://travel.state.gov/travel/tips/safety/safety_1747.html">www.travel.state.gov</a></i>
+    </string>
+
+    <string name="transportation">
+        \n<font size="35"><b><u>Transportation</u></b></font>
+        \n
+        \n
+        \n<font size="25"><b>Metro</b></font>
+        \n
+        \n
+        Three train lines and one suburban railway operate in Athens. The
+        Green Line is a regular train, whereas the Red Line and the Blue Line are underground trains (metro). Sunday through Thursday the regular train line runs
+        from 05:00am- 00:30am whereas both metro lines operate from 05:30am to midnight. Friday and Saturday, the metro (Blue &amp; Red lines) run until 02:00am.
+        The Metro station closest to the Aghia Paraskevi campus is Aghia Paraskevi (on the Blue line); Nomismatokopeio is also relatively close to campus.
+        \n
+        \n<font size="25"><b>Buses:</b></font>
+        \n
+        There are two types of buses in Athens: Blue buses and Trolley Buses (which work on a semi-fixed track and are purple/yellow).
+        Blue buses run daily between 5:00am and 00:15am and Trolley buses run daily from 5:00am to 00:30am.
+        For more information on public bus transportation, log on to: <a href="http://www.oasa.gr/?id=ind3ex&amp;lang=en">www.oasa.gr</a>
+        \n
+        \n<font size="25"><b>Tram:</b></font>
+        \n
+        There are also 3 tram lines, all of which travel along and/or end up at one of Attica’s many beaches. Two tram lines begin in the center of
+        Athens (Syntagma Square) and head south to the sea, whereas the 3rd one travels west to east along the shoreline.
+        These are ideal for visits to the seaside or the beach:
+        \n•	Thoukididis 3: SEF (SEF is the Peace &amp; Friendship Stadium in Faliro) – Asklipio Voulas
+	    \n•	Aristotelis 4: Syntagma Square-SEF
+	    \n•	Platonas 5: Syntagma Square – Asklipio Voulas
+        \n
+        \n
+        The B5 Blue bus is what will take you from the Nomismatokopeio Metro station to Aghiou Ioannou Square (and vice versa); from the square you walk North (uphill Aghiou Ioannou Street) for 3 minutes to reach the College, or West (along Athanasiou Diakou Street) for 5 minutes to reach the ACG Residences.
+        There are various public transport tickets that can be used depending on where to and how long you will be traveling. Some tickets are ‘integrated’ and are valid for 1.5 hours from the time you first validated your ticket and cost 1.4€. It is always best to check where and how you want to go somewhere and then choose the ticket that is required for your journey. Tickets are available for purchase at all metro stations and most kiosks.
+        Transportation to/ from Airport
+        \nPlease Note:
+        \nWhen using public transportation to reach the airport, ticket prices are as follow:
+        \n<b>Via Metro</b>: 8€
+        \nFor more information please visit: <a href="http://www.oasa.gr/?id=ind3ex&amp;lang=en">www.oasa.gr</a>
+        \n<b>Buses:</b>5€
+        \nBuses going to the airport include X92, X93, X94, X95, X96, X97. All of these are express routes.
+ 	    \n<b>Suburban Railway:</b> prices vary depending on station of departure. There is a suburban railway train departing for the airport approx. every 30 minutes.
+        \n<font size="25"><b>Taxis</b></font>
+        \n
+        \n
+        Finding a taxi in Athens is usually an easy task; as long as the taxi sign on top of the cab is lit, you can just flag it down, get in and give the driver your destination.
+        However, radio taxi service is available in case you would like to call ahead and have the cab pick you up from your location, for an additional fee.
+        The standard tariff for taxi transportation is 2.85; after midnight and until 05:00am, tariff prices are doubled.
+        \n
+        \n<b>Radio Taxi Service:</b>
+        \nMega Metropolitan <a href="tel:210661650">210-661-6500</a>
+        </string>
+
+    <string name="regional_travel">
+        \n<font size="35"><b><u>Regional Travel</u></b></font>
+        \n
+        \n
+        \n<b>National Buses (KTEL):</b>
+        \n<a href="http://www.ktel.org/index.php?pathID=1_2767">www.ktel.org</a>
+        \n<a href="tel:+301440">1440</a> &amp; <a href="tel:2105124910">210-512-4910</a>
+        \n
+        \n<b>National railway station (OSE):</b>
+        \n<a href="http://www.ose.gr/en/">www.ose.gr</a>
+        \n<a href="tel:1110">1110</a>
+        \n<a href="tel:2105297777">210-529-7777</a>
+        \n
+        \n<b>Ferry Information</b>
+        \n
+        \n<u>Piraeus Port Information:</u>
+        \n<a href="http://www.olp.gr/en/">www.olp.gr</a>
+        \n<a href="tel:2104226000">210-422-6000</a>
+        \n
+        \n<u>Rafina Port Information:</u>
+        \n<a href="tel:2294022300">22940-22300</a> &amp; <a href="tel:2294022481">22940-22481</a>
+        \n
+        \n<u>Bluestar Ferries:</u>
+        \n<a href="http://www.bluestarferries.gr/site/content.asp?sel=&amp;loc=2">www.bluestarferries.gr</a>
+        \n<a href="tel:2108919800">210-891-9800</a>
+        \n
+        \n<u>Hellenic Seaways:</u>
+        \n<a href="https://hellenicseaways.gr/en/">www.hellenicseaways.gr</a>
+        \n<a href="tel:2104199000">210-419-9000</a>
+        \n
+        \n<u>Anek Lines:</u>
+        \n<a href="http://web.anek.gr/portal/page/portal/ANEK_prod">www.anek.gr</a>
+        \n<a href="tel:2104197420">210-419-7420</a>
+        \n
+        \n<b>Airline Information:</b>
+        \n<u>Eleftherios Venizelos Airport:</u>
+        \n<a href="https://hellenicseaways.gr/en/">www.aia.gr</a>
+        \n<a href="tel:2103530000">210-353-0000</a>
+        \n
+        \n<u>Olympir Air:</u>
+        \n<a href="https://www.olympicair.com/en">www.olympicair.com</a>
+        \n<u>Aegean Airlines:</u>
+        \n<a href="https://www.olympicair.com/en">www.aegeanairlines.com</a>
+        \n
+        \n
+        \n<b><u>Important Notice:</u></b>
+        \n
+        If you are planning on travelling outside Greece, be sure to check with the Office of Residential &amp;
+        International Student Services staff before booking your tickets to ensure that your travel &amp; residence status permit re-entry into Greece.
+    </string>
+
+    <string name="losing_a_passport">
+        \n<font size="35"><b><u>Losing a Passport</u></b></font>
+        \n
+        \n
+        \n
+        The first thing you should do is to contact the nearest embassy or consulate of your country for assistance.
+        For a complete list of Embassies and Consulates in Athens, along with contact information, go to:
+        \n<a href="http://www.athensinfoguide.com/genembassies.htm">www.athensinfoguide.com</a>
+        \n
+        You will likely need to go to the embassy or consulate in person and appear before an official to obtain a replacement passport. At the embassy or consulate,
+        you will need to complete a new passport application. You can expect to be asked questions about your identity and citizenship. Try not to be
+        alarmed as it is a standard procedure needed to be sure that you are who you say you are.
+        If possible, bring with you a copy of your passport number, name, place/date of birth, and date/place where passport was issued.
+    </string>
+    
+    <string name="shopping_in_athens">
+        \n
+        \n
+        \n<font size="35"><b><u>Shopping in Athens</u></b></font>
+        \n<u><b>If you want to go for shopping, keep in mind the store hours:</b></u>
+        \n
+        \n•	Typical store hours: Monday, Wednesday: 09:00 – 14:30. Tuesday, Thursday, Friday: 09:00- 14:30 and 17:30- 21:00. Saturday: 09:00- 15:00. Sunday: Closed
+        \n•	Large Department stores: Monday to Friday: 09:00- 21:00. Saturday 09:00- 20:00.
+        \n•	Supermarkets: Monday to Friday: 08:00- 21:00. Saturday: 08:00- 20:00.
+        \n•	In the city center, shopping hours vary and you may find stores open till 18:00.
+        \n•	In tourist areas such as Plaka and Monastiraki, the shops are open on Sundays!
+        \n
+        \n
+        \n<u><b>Shopping Malls</b></u>
+        \n
+        \nThere are two major shopping malls within a short metro or bus ride:
+        \n
+        <b>The Mall:</b> Take the Metro (Blue Line) to Doukissis Plakendias station and from there switch to the suburban railway in the direction of Kiato; get off at Neratziotissa station.
+        \n
+        \n
+        <b>Golden Hall:</b> Located on Kifissias Avenue, you can follow the same route to get to the The Mall, and use the Golden Hall shuttle right outside the Neratziotissa station.
+        Alternatively you can take a taxi from Mesogeion
+        Avenue to Golden Hall that will cost 5-7 euros (one way).
+        \n
+        \n
+        <b>Athens Metro Mall - Agios Dimitrios:</b> 276 Vouliagmenis Avenue, Agios Dimitrios. Access by metro line 2, station  Agios Dimitrios.
+        \n
+        \n
+        \nThese shopping malls have an extended operating schedule,
+        Monday-Friday from 10:00am – 21:00pm and Saturday from 10:00am- 20:00pm.
+        \n
+        \nFor <b>IKEA</b>lovers in Athens there are 2 IKEA stores:
+        \n	One is near the Athens International Airport: You can go there by taking the buses or metro going to the airport.
+        \n	The second one is located on 96 Kifissou Street, Aigaleo. There is a Blue line metro station in Aigaleo.
+        \n
+        \n*Open Monday- Friday: 10:00am- 21:00pm; Saturday: 10:00am – 20:00pm.
+        \n
+        \n
+        \n<b>Flea Markets and Shopping Areas</b>
+        \n
+        The Monastiraki flea market on the cobbled Hephaestus Street is the main flea market in Athens.
+        It is accessible using the Metro (Blue line, Monastiraki station) and is definitely worth a stroll!
+    </string>
+    
+    <string name="athens_must_sees">
+        \n<font size="35"><b><u>Athens Must-Sees!</u></b></font>
+        \nCheck with the RA\'s for Athens Maps
+        \n
+        \n
+        \n<font size="25"><b>Acropolis, Makrygianni, Thissio and Monastiraki</b></font>
+        \n
+        \nTo get to the Acropolis you will need to take the Blue line metro to Syntagma; from there transfer to the Red Line and get off at the Acropolis station.
+        \nThe following is a tour route of downtown Athens suggested by DEREE students:
+        \n•	After arriving at the Acropolis metro station, follow the signs toward Dionysiou Aeropagitou, a beautiful pedestrian street that borders the Acropolis hill and connects with the pedestrian street of Apostolou Pavlou leading into the ancient neighborhood of Thission.
+        \n•	At first, you will find yourself in the area of Makrygianni. As you walk onto Dionysiou Aeropagitou Street from the station and face the Acropolis, you’ll see Hadrian’s Arch to your right, and the walkway around the Acropolis to your left. Opposite, there is a statue of Ioannis Makrygiannis- a leading figure in the 1821 Hellenic Revolution War of Independence- and behind him Vyronos Street leading into the area of Plaka.
+        \n•	Follow Dionysiou Aeropagitou around the Acropolis, stop to take a look at the Parthenon, and don’t forget to take a look at the ancient amphitheatre of Herod Atticus, where music, dance, and theatre performances still take place during the summer! A bit further down you’ll see the brilliant new Acropolis Museum, where many of the Parthenon marbles and other impressive finds from the Acropolis were recently transported.
+        \n•	Soon you will reach a fork in the road; the road to your left heads up to Philopappou Hill, while continuing on your right you’ll reach Thission.
+        \n•	Walk past the church of St Dimitrios and the rocky cell where Socrates was imprisoned and famously drank his poison; then head up towards the monument of Philopappou. Also visit historic Pnyx Hill, located between the Hill of the Numphs and the Hill of the Muses, which in Classical times was the gathering point for the Citizen’s Assembly.
+        \n•	Head back down to the fork of Dionysiou Aeropagitou Street and continue down along Apostolou Pavlou Street, until you reach Thission, with its historic and neoclassic buildings. You will find many coffee shops, bakeries, tavernas, retail stores and galleries around the area.
+        \n•	Stop for some coffee in one of Thission’s quaint cafes and then continue on your walk, past the Thission train station and up Ermou Street (which eventually becomes a pedestrian street). Alittle further on and to your right you will find the ancient cemetery of Kerameikos, where part of the Themistoklean wall that once circled central Athens still stands, as does the Sacred Gate, and where numerous legendary figures of the ancient past were buried.
+        \n•	OTE: For foreign magazines and newspapers, there’s a store on pedestrian Herakleidon Street.
+        \n•	From Thission station, you can take a right turn and head up Ermou Street, passing miscellaneous shops and then seeing Avyssinias Square on your right, where every Sunday the antique market sprawls out, and up to Monastiraki train station. In Monastiraki Square you’ll see many tourists, fruit-sellers as well as the Monastery of Pandanassa and the Tzistarakis Mosque.
+        \n•	To the side of Monastiraki station you’ll find the flea market, a winding pedestrian street full with stores selling clothes,
+        accessories and souvenirs. Walking through it will take you to Andrianou Street, lined with neoclassical houses now transformed into busy cafes.
+        Stop on one of the side streets for a quick ouzo and meze plate, and then head up towards Plaka to explore the city more.
+        \n
+        \n
+        \n<font size="25"><b>National Archaeological Museum of Athens</b></font>
+        \n
+        \n
+        The National Archaeological Museum of Athens is the most important archaeological museum in Greece and one of the richest in the world concerning ancient Greek art.
+        Its collections are representative of all the cultures that flourished in Greece.
+        \n
+        \n
+        \n<font size="25"><b>Ancient Agora</b></font>
+        \n
+        \n
+        The Agora was the heart of ancient Athens. The focus of political, commercial, administrative, and social activity.
+        It also functioned as the religious and cultural center, as well as the seat of justice.
+        \n
+        \n
+        \n<font size="25"><b>Temple of Olympian Zeus</b></font>
+        \n
+        \n
+        The Temple of Olympian Zeus (Olympeion) was an enormous structure, the largest temple in Greece, exceeding even the Parthenon in size. After the construction of the temple of Zeus, the Athenians honored Hadrian by building an arched gateway in the northwest corner of the sanctuary. The arch bares two inscriptions. The one on the side facing the Acropolis (west façade) reads “This is Athens, the ancient city of Theseus” while the other, on the side facing the sanctuary
+        and the extension of the city by Hadrian, reads “this is the city of Hadrian and not of These
+        \n
+        \n
+        \n<font size="25"><b>Lycabettus Hill</b></font>
+        \n
+        \n
+        If you would like to see a great view of the city, head to Lycabettus Hill! To get there, follow the “telepherique” signs to the corner of Kleomenous and Ploutarchou Streets, between Kolonaki
+        Square and the Athens Hilton. The panorama from the top is priceless- all the way to Mount Parnes in the north, west to Piraeus and the Saronic Gulf, with the
+        Acropolis sitting like a ruminative lion half way to the sea. There’s also a café/ restaurant on the top of Lycabettus hill.
+        \n
+        \n
+        \n<font size="25"><b>Changing of the Guard</b></font>
+        \n
+        \n
+        Outside the Hellenic Parliament at Syntagma square you can see the Changing of the Guard. The most spectacular changing of the guard is on Sundays at 11 o’clock. The “changing shift” starts with a parade from the Evzone camp in the street of Irodou Attikou, opposite the residence of the President, moving through Vassilissis Sofias towards Syntagma Square. An “Evzonas” is a member of the Greek Presidential Guard. The “Evzonas” troup was founded on the 12th of December 1868 as a combatant and at the same time ceremonial force. The “Evzonas”, with the “foustanella” (a kind of kilt) and the “tsarouhi”
+        (rustic shoes with pompoms), became a symbol of the War of Independence.
+    </string>
+
+    <string name="athens_archaeological_sites_and_museums">
+        \n<font size="35"><b><u>Athens Archaeological Sites &amp; Museums</u></b></font>
+        \n
+        \n
+        \n<font size="25"><b>Acropolis of Athens</b></font>
+        \n
+        \nPackage ticket price 5€ (reduced price 3€ for non-EU students, free entrance for EU students)
+        \nValid for: Acropolis of Athens, Ancient Agora of Athens, Archaeological Museum of Kerameikos, Kerameikos, Museum of the Ancient Agora, North slope of Acropolis,
+        Olympieio, Roman Agora of Athens, South Slope of Acropolis
+        \n
+        \n<i>Admission is free on the following days:</i>
+        \n3 6 March (in memory of Melina Mercouri)
+        \n3 5 June (International Environment Day)
+        \n3 18 April (International Monuments Day)
+        \n3 18 May (International Museums Day)
+        \n3 The last weekend of September annually (European Heritage Days)
+        \n3 Sundays between 1 November and 31 March
+        \n3 National Holidays
+        \n3 The first Sunday of every month, except for July, August and September (when the first Sunday is a holiday, then the second is free admission.)
+        \n3 Last week of September (European Cultural heritage Days)
+        \n
+        \nGeneral Operating Hours: 8.30am-15:00pm
+        \n
+        \nHolidays:
+        \n
+        \n•	1 January: closed
+        \n•	25 March: closed
+        \n•	Good Friday: until 12:00 closed
+        \n•	Holy Saturday: 08:30am-15:00pm
+        \n•	1 May: closed
+        \n•	Easter Sunday: closed
+        \n•	Easter Monday: 8:30am- 15:00pm
+        \n•	25 December: closed
+        \n•	26 December: closed
+        \n
+        \n
+        \n<font size="25"><b>Museum of the Ancient Agora</b></font>
+        \n
+        \nTicket price: 4€ (unless using the Acropolis of Athens package ticket). Reduced ticket 2€ by showing student ID.
+        \n
+        \nAdmission is free on the following days:
+        \n
+        \n•	Sundays in the period between 1 November and 31 March
+        \n•	The first Sunday of every month, except of July, August and September (when the first Sunday is a holiday, then the second is the free admission day.)
+        \n•	27 September, International Tourism Day
+        \n
+        \nOperating hours: 8:30am- 15:00pm (November 1st – March 31st)
+        \n(Mondays from 08:00am to 11:00am the Museum is closed)
+        \n
+        \nHolidays:
+        \n
+        \n•	1 January: closed
+        \n•	25 March: closed
+        \n•	Good Friday: closed
+        \n•	1 May: closed
+        \n•	Easter Sunday: closed
+        \n•	25 December: closed
+        \n•	26 December: closed
+        \n
+        \n
+        \n<font size="25"><b>Museum, Site and Gallery Contact Information</b></font>
+        \n
+        \n
+        \n<b>The National Archaeological Museum:</b>
+        \n44, Patision str. <a href="tel:2132144890">213-214-4890</a>
+        \n<a href="tel:2132144800">213-214-4800</a>
+        \n<a href="http://www.namuseum.gr/index-en.html">www.namuseum.gr</a>
+        \n
+        \n<b>The Acropolis Museum:</b>
+        \n<a href="tel:2109000900">210-900-0900</a>
+        \n<a href="http://www.theacropolismuseum.gr/en">www.theacropolismuseum.gr</a>
+        \n
+        \n<b>The Athens Ancient Agora Museum:</b>
+        \nStoa tou Attalou, Archaea Agora; <a href="tel:2103210185">210-321-0185</a>
+        \n
+        \nThe Kerameikos Museum: 148, Ermou str, <a href="tel:2103463552">210-346-3552</a>
+        \n
+        \nThe Epigraph Museum: 1, Tositsa str, <a href="tel:2108217637">210-821-7637</a>
+        \n
+        \nThe Numismatic museum: 12, Panepistimiou str (“Iliou Melathron”) <a href="tel:2103632057">210-363-2057</a>
+        \n<a href="tel:2103612834">210-361-2834</a>
+        \n<a href="http://www.enma.gr/index_en.htm">www.nma.gr</a>
+        \n
+        \nThe Goulandris Museum of Cycladic and Ancient Greek Art: 4, Neofytou Douka str.
+        \n<a href="tel:2107228321">210-722-8321</a>
+        \n<a href="http://www.cycladic.gr/frontoffice/portal.asp?cpage=NODE&amp;cnode=1&amp;clang=1">www.cycladic.gr</a>
+        \n
+        \nThe National Historical and Ethnological Museum: 13, Stadiou str,
+        \n<a href="tel:2103237617">210-323-7617</a>
+        \n
+        \nThe Benaki Museum: 1, Koumbari str. &amp; Vas. Sofias Avenue
+        \n<a href="tel:2103671000">210-3671000</a>
+        \n<a href="http://www.benaki.gr/index.asp?lang=en">www.benaki.gr</a>
+        \n
+        \nPiraeus Street building: 138, Piraeus str. (Gazi)
+        \n<a href="tel:2103453111">210-345-3111</a>
+        \n
+        \nThe Byzantine and Christian Museum: 22, Vas. Sofias Avenue,
+        \n<a href="tel:2132139572">213-213-9572</a>
+        \n<a href="http://www.byzantinemuseum.gr/en/">www.byzantinemuseum.gr</a>
+        \n
+        \nThe War Museum: 2, Rizari str,
+        \n<a href="tel:2107252974">210-725-2974</a>
+        \n<a href="http://www.warmuseum.gr/en">www.warmuseum.gr</a>
+        \n
+        \nThe Museum of the City of Athens: 5-7, Paparrigopoulou str. 9Klathmonos Square)
+        \n<a href="tel:2103246164">210-324-6164</a>
+        \n<a href="http://www.athenscitymuseum.gr/en/">www.athenscitymuseum.gr</a>
+        \n
+        \nThe National Gallery-Alexandros Soutzos Museum: Vasileos Konstantinou Avenue
+        \n<a href="tel:2107235857">210-723-5857</a>
+        \n
+        \nThe National Museum of Modern Art: Syngrou Avenue, FIX building;
+        \n<a href="tel:2109242111">210-924-2111</a>
+        \n<a href="http://www.emst.gr/EN/Pages/default_new.aspx">www.emst.gr</a>
+        \n
+        \nThe Athens Municipal Gallery: Piraeus str, koumoundourou Square
+        \n<a href="tel:2103231841">210-323-1841</a>
+        \n
+        \nThe Frissiras Museum: 3-7, Monis Asteriou str, Plaka;
+        \n<a href="tel:2103234678">210-323-4678</a>
+        \n<a href="http://www.frissirasmuseum.com/english/index.aspx">www.frissirasmuseum.com</a>
+        \n
+        \nThe Greek Popular Art Museum: 17, Kythathinaeon str, Plaka;
+        \n<a href="tel:2103229031">210-322-9031</a>
+        \n<a href="tel:2103213018">210-321-3018</a>
+        \n
+        \nThe Greek Traditional Musical Instruments Museum: 1-3, Diogenous str, Plaka;
+        \n<a href="tel:2103250198">210-325-0198</a>
+        \n<a href="tel:2103254119">210-325-4119</a>
+        \n<a href="http://www.instruments-museum.gr/products1.php?lang=1&amp;wh=8">www.instruments-museum.gr</a>
+        \n
+        \nThe Ceramics Collection: Tzistaraki Mosque, Monastiraki
+        \n<a href="tel:2103242006">210-324-2006</a>
+        \n
+        \nThe Theatrical Museum: 50, Akadimias str,
+        \n<a href="tel:2103629430">210-362-9430</a>
+        \n
+        \nTechnopolis: 100, Pireos str;
+        \n<a href="tel:2103460981">210-346-0981</a>
+        \n<a href="http://www.technopolis-athens.com/web/guest/home">www.technopolis-athens.com</a>
+</string>
+    
+    <string name="experiencing_greece">
+        \n<font size="35"><b><u>Experiencing Greece</u></b></font>
+        \n
+        \n<font size="25"><b>Here are just a few items we recommend you try during your stay in Athens:</b></font>
+        \n
+        \n<b>Tastes</b>
+        \n
+        \n
+        Greek coffee takes a whole new dimension when you have it prepared in hot sand! Get off at Omonia station (Green and/or Red Line) and take pedestrian street Aiolou to Krinos confectionary and enjoy your Greek coffee, along with loukoumades, a traditional puff pastry smothered in honey and dusted with walnuts and cinnamon. The round marble tables and black iron chairs will make you feel like
+        you are walking into a piece of Athens that got stuck somewhere between the 1950’s and ‘60s!
+        \n
+        \n
+        For a more modern take on a traditional taste, visit the 6th floor café in Attica Department store on Panepistimiou Street (Red Line, Panepistimio stop) where you can enjoy hot
+        sand-prepared Greek coffee with spoon sweets, overlooking one of Athens’ busiest areas.
+        \n
+        \n
+        Take a step into Modern Greek history at Melina Café in Plaka, a coffee shop dedicated to the Greek politician and actress Melina Mercouri. In the late 60’s when the junta in Greece decided to revoke Melina’s citizenship, she very simply and unwaveringly responded: I was born Greek. I will die Greek. Around
+        the world Melina is known for her campaign to have the Parthenon Marbles returned to the Acropolis Museum.
+        \n
+        \nKrinos: 87Aiolou Street, Athens
+        \n
+        \nAttica Department Store: Panepistimiou &amp; Stadiou Streets, Athens
+        \nMelina Café: 22 Lysiou Street, Athens (Plaka) – 2103246501
+        \n•	Souvlaki, kebap &amp; tzatziki:
+        \nWalking into Bairaktaris at Monastiraki square (Monastiraki metro stop, Green and/or Blue Line), a tavern dating back to 1879, is like walking into a living, breathtaking part of Athens’ history. Besides having one of the area’s best souvlaki and kebap, Bairaktaris is where several major political discussions and cultural collaborations have been made over a “cup” of wine and traditional Greek tastes. An absolute must when visiting downtown Athens!
+        \n
+        \n
+        Thanassis, another staple taverna of Monastiraki square, right across the street from Bairaktaris, boasts a specialty of kebap (a long cylindrical-looking burger made of lamb and beef) with pitta bread, roasted tomato and onions- if you want tzatziki (yogurt, garlic and cucumber sauce) you have to order it separately!
+        \n
+        \nBairaktaris: 2 Monastiraki Square, Athens
+        \n
+        \nThanassis: 69 Mitropoleos Street &amp; Monastiraki Square, Athens
+        \n
+        \n•	Ouzo, tsipouro, wine and mezedes:
+        \n
+        \n
+        There is no way you can visit Greece and not taste mezedes: bite-size morsels, several cooked in wine, some served hot and some cold. Mezedes are offered in a wide range to please all types of taste buds: roasted octopus, octopus in wine sauce, broiled shrimp, lemon shrimp, fried calamari, stuffed calamari, muscles in lemon sauce, traditional sausage, pork bits in wine sauce, keftedes (fried meatballs), baked feta, fried graviera cheese, stuffed baked potatoes, stuffed grape leaves, and so many more creative, tasty tidbits! And of course a mezes is not a mezes without a sip of Greek ouzo, tsipouro, or wine!
+        \n
+        \nMorfi: 40 Iraklidon Street, Athens – Thision (Green Line, Thision stop)
+        \n
+        \nGazohori: 2 Dekeleon Street, Athens – Gazi (Blue Line, Keramikos stop)
+        \n
+        \n•	Ancient Greek cuisine:
+        \n
+        If you’re a “meat and potatoes” kind of eater, this may not be the place for you: there were no potatoes in Ancient Greece, so you won’t find any on this menu either! You will, however, find meats (goat, lamb and port) and fish marinated in honey and herbs (not spices!), served with fresh salads and plenty of honeywine. Something to experience at least once!
+        \n
+        \n
+        \n<font size="25"><b>Smells</b></font>
+        \n
+        \n
+        \nArcheon Gefsis: 22 Kodratou Street, Athens – Metaxourgio (Red Line,  Metaxourgion stop) 210 523 9661 (must call ahead for reservations; open for lunch and dinner Monday through Saturday)
+	    \n•	Herbs &amp; Spices:
+        \n
+        The distinct smell of spices and herbs, displayed in satchels, burlap bags and pine-wood boxes, all with tiny silver shovel-like scoops to help you fill little plastic and paper bags with magic food-dust is an experience you will not soon forget. Bahar (Μπαχαρ) has been around since the 1950s and is just one of many spice shops in Athens.
+        \n
+        \nBahar: Evripidou Street, Athens – <a href="tel:2103217225">210-321-7225</a>
+        \n
+        \n
+        \n<font size="25"><b>Smells</b></font>
+        \n
+        \n
+        Follow your nose to any one of the mobile carts along the busy Athens window shopping areas like Ermou or Aiolou streets and pick up some roasted chestnuts in paper bag to munch on while wandering around the center of Athens!
+	    \n
+        \n•	Laterna:
+        \n
+        Although there was a time at the beginning of the 20th century when over 5000 laternas could be found around Athens, today the distinct clinking music that echos among the busy street coming from one lonely laterna brings a nostalgic smile to our face. If you do happen to hear the laterna bells clinking, stop and check out this strange musical instrument brought to Greece in the middle of the 19th century from Constantinople.
+</string>
+
+    <string name="places_of_worship">
+        \n<font size="35"><b><u>Places of Worship</u></b></font>
+        \n
+        \n
+        \n<b>Greek Orthodox</b>
+	    \n•	Aghia Paraskevi Church. Located in Aghia Paraskevi square. Tel: <a href="tel:2106390984">210-6390984</a>.
+	    \n•	Metropolis (Cathedral), Mitropoleos, tel <a href="tel:2103223108">210-3221308</a>. Open daily 7am-7pm. Sunday Mass at 6.30am (in Greek)
+        \n
+        \n<b>Roman Catholic</b>
+	    \n•	St. Denis Roman Catholic Cathedral, 24 Panepistimiou, Tel <a href="tel:2103623603">210-3623603</a>. Daily Mass at 7,8 am, 6pm. Sundays: 7,8,9, 10 am (Greek); 7pm (English)
+        \n•	Italian-Speaking Community, 7 Gilfordou (Victorias Sq), Tel <a href="tel:2108218928">210-8218928</a>. Mass in Italian on Saturday 7pm and Sunday at 11am
+        \n•	French-Speaking Community, Carmelites Chapel, 16, 25th Martiou, Paleo Iraklio Tel <a href="tel:2102811667">210-2811667</a>. Mass Thursdays 8.30am; other days in Greek at 8.30am
+        \n•	S t. Paul’s Catholic Church, 4 Kokkinaki, Kifissia (very close to the subway terminal), Tel <a href="tel:210-8012526">210-8012526</a>. Masses held on
+        \n
+        \nSaturdays at 6pm and Sundays at 8.30am and 11am
+        \n
+        \n<b>Protestant Non-denominational</b>
+        \n•	St. Andrew’s International Protestant Church. Sunday services and Sunday School at two locations, tel. <a href="tel:2106452583">210-6452583</a> KIFISSIA / LYKOVRISSI, St. Catherine’s School, 73 Sofokli Venizelou (9:00am) DOWNTOWN, Zaimi 17, Athens. (11.30am)
+        \n•	Glyfada Christian Centre, a full Gospel church. Sundays 10.30am, adults’ and children’s services. Wed 7.15pm, adults’ and children’s Bible studies. Thu 10.30am, ladies’ Bible study. 117 Saki Karagiorga, Ano Glyfada tel. <a href="tel:2109651346">210-9651346</a>
+        \n
+        \n<b>Anglican</b>
+        \n• St. Paul’s Church, 29 Filellinon, tel. 721-4906. Holy Communion (BCP). Tuesdays at 10am. Sung Eucharist every Sunday at 10.15am. Reverend Malcolm Bradshaw
+        \n
+        \n<b>Baptist</b>
+        \n•	Bible Baptist Church Bible Believing Teaching &amp; Preaching. 14 Kourtesi, Halandri (Entrance to the American Community Schools), <a href="tel:2106012054">210-6012054</a>. Services: Wednesdays 7pm (Bible Study) &amp; Sundays 11.30am.
+        \n•	G race Baptist Church, 27 Slimansophias, Ambelokipi, tel <a href="tel:2109628471">210-9628471</a>. (Bob Feather) Sunday worship at 11am &amp; 6pm; Wednesdays at 7pm.
+        \n
+        \n<b>Pentecostal</b>
+        \n•	Hellenic International Christian Fellowship, 18 Pan Tsaldari, Kifissia, <a href="tel:2108540513">210-8540513</a>. Sunday Service 11am-2pm.
+        \n
+        \n<b>Jewish</b>
+        \n• Beth Shalom Synagogue, 8 Melidoni, Thission, <a href="tel:2103252823">210-3252823</a>. Monday through Friday 8.30- 13.30.
+        (Please make sure that you have with you your passport or identity card with you). Call for more information as the services change times frequently.
+        \n
+        \n<b>Other Churches</b>
+        \n•	Church of Christ, 10 Evrou, Ambelokipi (close to the American Embassy), tel. <a href="tel:2107794840">210-7794840</a>/ <a href="tel:2109633380">210-9633380</a>. English Services: 6-7.30pm Sundays, 7.30-8.30pm Bible study on Wednesdays. Greek Services: 10-noon Sundays.
+        \n•	The Church of Jesus Christ of Latter-Day Saints, 15 Meandrou (Ilisia), 1st floor, tel.<a href="tel:2106755267">2106755267</a>. Services every Sun 10am1pm in Greek with English translation.
+        \n
+        \nThis information was adapted from <a href="http://www.athensguide.com/practicalinfo/churches.htm">www.athensguide.com</a>
+        </string>
+
+    <string name="greek_key_words">
+        \n<font size="35"><b><u>Greek Key Words &amp; Phrases</u></b></font>
+        \n
+        \n
+        \n<b>This brief reference sheet first provides the word in English, then the word in Greek, followed by the pronunciation of the Greek word.</b>
+        \n
+        \n<b>Basic Words</b>
+        \n
+        \n   ▪ 	 Yes:
+        \nΝΑΙ
+        \n[Neh]
+        \n
+        \n    ▪ 	 No:
+        \nΟΧΙ
+        \n[O-hee]
+        \n
+        \n    ▪ 	 Please:
+        \nΠΑΡΑΚΑΛΩ
+        \n[Pa-ra-ka-lo]
+        \n
+        \n    ▪ 	 Thank you (very much):
+        \nΕΥΧΑΡΙΣΤΩ (Π0ΛΥ)
+        \n[Ef-ha-ris-to (po-lee)]
+        \n
+        \n    ▪ 	 You are welcome:
+        \nΠΑΡΑΚΑΛΩ
+        \n[Pa-ra-ka-lo]
+        \n
+        \n    ▪ 	 Excuse me:
+        \nΣΥΓΓΝΩΜΗ
+        \n[Seeg-no-mee]
+        \n
+        \n    ▪ 	 I am sorry:
+        \nΛΥΠΑΜΑΙ or ΣΥΓΓΝΩΜΗ
+        \n[Lee-pa-me] [Seeg-no-mee]
+        \n
+        \n    ▪ 	 I don’t understand:
+        \nΔΕΝ ΚΑΤΑΛΑΒΑΙΝΩ
+        \n[Den ka-ta-la-ve-no]
+        \n
+        \n    ▪ 	 I don’t speak Greek:
+        \nΔΕ ΜΙΛΑΩ ΕΛΛΗΝΙΚΑ
+        \n[De mi-lao e-li-ni-ka]
+        \n
+        \n    ▪ 	 I speak a little Greek:
+        \n
+        \n
+        \n<b>When You Meet Someone</b>
+        \n
+        \nΜΙΛΑΩ ΛΙΓΑ ΕΛΛΗΝΙΚΑ
+        \n[Mi-lao li-ga e-li-ni-ka]
+        \n
+        \n   ▪ 	 Hello:
+        \nΓΕΙΑ ΣΟΥ
+        \n[ya-soo]
+        \n    ▪ 	 How are you?:
+        \nΤΙ ΚΑΝΕΙΣ?
+        \n[ti ka-nis?]
+        \n
+        \n   ▪ 	 Fine, thank you:
+        \nΚΑΛΑ, ΕΥΧΑΡΙΣΤΩ
+        \n[Ka-la, ef-ha-ris-to]
+        \n
+        \n    ▪ 	 What’s your name?:
+        \nΠΩΣ ΣΕ ΛΕΝΕ?
+        \n[Pos se le-ne?]
+        \n
+        \n    ▪ 	 My name is…:
+        \nΜΕ ΛΕΝΕ…
+        \n[Me le-ne…]
+        \n
+        \n    ▪ 	 Nice meeting you:
+        \nΧΑΡΗΚΑ
+        \n[Ha-ri-ka]
+        \n
+        \n    ▪ 	 Goodbye:
+        \nΑΝΤΙΟ
+        \n[Adee-o]
+        \n
+        \n    ▪ 	 Good morning:
+        \nΚΑΛΗΜΕΡΑ
+        \n[Ka-lee-me-ra]
+        \n
+        \n    ▪ 	 Good evening:
+        \nΚΑΛΗΣΠΕΡΑ
+        \n[Ka-lee-spe-ra]
+        \n
+        \n    ▪ 	 Good night:
+        \n
+        \n<b>In Case of Emergency</b>
+        \nΚΑΛΗΝΥΧΤΑ
+        \n[Ka-li nee-hta]
+        \n
+        \n    ▪ 	 Help!:
+        \nΒΟΗΘΕΙΑ!
+        \n[voee-thee-ah](voitheia)
+        \n
+        \n    ▪ 	 Police:
+        \nΑΣΤΥΝΟΜΙΑ
+        \n[a-stee-no-mee-a] (asti-no-mia)
+        \n
+        \n
+        \n    ▪ 	 It’s an emergency:
+        \nΕΙΝΑΙ ΕΠΕΙΓΟΝ
+        \n[ee-neh e-pee-gon] )ei-nai – epi-gon
+        \n
+        \n    ▪ 	 I’m lost:
+        \nΕΧΩ ΧΑΘΕΙ
+        \n[e-ho ha-thee]
+        \n
+        \n    ▪ 	 I need a doctor:
+        \nΧΡΕΙΑΖΟΜΑΙ ΓΙΑΤΡΟ
+        \n[hre-a-zo-me ya-tro]
+    </string>
+    
+    <string name="common_international_convs">
+        \n<font size="35"><b><u>Common International Conversions</u></b></font>
+        \n
+        \n
+        \n<b>Temperature</b>
+        \nFahrenheit to Celsius: οC = (οF-32) /
+        \n1.8 Celsius to Fahrenheit: οF= (οC * 1.8) +32
+        \n
+        \n<b>Clothing sizes</b>
+        \nSizes of clothing may vary, so you should use these charts for approximation only.
+        \nWomen’s sweaters, coats &amp; suits
+        \n
+        \n<b>European:</b>
+        \n32
+        \n34
+        \n36
+        \n38
+        \n40
+        \n42
+        \n44
+        \n46
+        \n48
+        \n50
+        \n
+        \n<b>UK:</b>
+        \n4
+        \n6
+        \n8
+        \n10
+        \n12
+        \n14
+        \n16
+        \n18
+        \n20
+        \n22
+        \n
+        \n<b>USA</b>
+        \n2
+        \n4
+        \n6
+        \n8
+        \n10
+        \n12
+        \n14
+        \n16
+        \n18
+        \n20
+        \n
+        \n<b>USA LETTER:</b>
+        \nXS
+        \nS
+        \nS
+        \nM
+        \nM
+        \nL
+        \nL
+        \n1X
+        \n1X
+        \n2X
+        \n
+        \n<b>Women’s pants:</b>
+        \n<b>US (inches)</b>
+        \n24
+        \n25
+        \n27
+        \n29
+        \n31
+        \n33
+        \n36
+        \n<b>Int’l (cms)</b>
+        \n60
+        \n63
+        \n68
+        \n73
+        \n78
+        \n83
+        \n90
+        \n
+        \n<b>Men’s sweaters, coats &amp; suits</b>
+        \n<b>European:</b>
+        \n42
+        \n44
+        \n46
+        \n48
+        \n50
+        \n52
+        \n54
+        \n56
+        \n58
+        \n<b>UK:</b>
+        \n32
+        \n34
+        \n36
+        \n38
+        \n40
+        \n42
+        \n44
+        \n46
+        \n48
+        \n<b>USA:</b>
+        \n32
+        \n34
+        \n36
+        \n38
+        \n40
+        \n42
+        \n44
+        \n46
+        \n48
+        \n
+        \n<b>Men’s pants:</b>
+        \n<b>US (inches):</b>
+        \n28
+        \n30
+        \n32
+        \n34
+        \n36
+        \n38
+        \n40
+        \n42
+        \n44
+        \n46
+        \n48
+        \n<b>Int’l (cms):</b>
+        \n71
+        \n76
+        \n81
+        \n86
+        \n91.5
+        \n96.5
+        \n101.5
+        \n106.5
+        \n112
+        \n117
+        \n122
+        \n<b>Men’s shoes:</b>
+        \n<b>European:</b>
+        \n37.5
+        \n38
+        \n38.5
+        \n39
+        \n39.5
+        \n40
+        \n41
+        \n42
+        \n43
+        \n44
+        \n45
+        \nUK
+        \n5.5
+        \n6
+        \n6.5
+        \n7
+        \n7.5
+        \n8
+        \n8.5
+        \n9
+        \n9.5
+        \n10
+        \n10.5
+        \nUSA
+        \n6
+        \n6.5
+        \n7
+        \n7.5
+        \n8
+        \n8.5
+        \n9
+        \n9.5
+        \n10
+        \n10.5
+        \n11
+        \n
+        \n<b>Other metric conversions:</b>
+        \n1 Kilogram = 2.2 pounds
+        \n1 liter = 2.113 pints
+        \n1 meter = 3.28 feet
+        \n1	gram = .036 ounce
+        \nKm to mi = X km (times) .62
+        \nMi to km = X miles (times) 1.61
+        \n1.609 km = 1 mile
+        \n
+        \n
+        \nSome of this data was compiled from <a href="http://www.convert-me.com/en/">www.convert-me.com</a>
+        and <a href="http://www.usatourist.com/english/index.html">www.usatourist.com</a>
+    </string>
+
+    <string name="pre_departure_checklist">
+        \n<font size="35"><b><u>Pre-departure Checklist</u></b></font>
+        \n
+        \n<font size="25"><b>The things you need to attend to, 40 days before your departure are the following.</b></font>
+        \n
+        \n▪ Make flight arrangements to get to Athens International Airport.
+        \n▪ Reserve your housing at ACG.
+        \n▪ Attend pre-departure sessions at your home institution, if they are available.
+        \n▪ Arrange for all required course approvals. (If you are a study abroad student)
+        \n▪ Meet with a financial aid advisor at your home institution to verify that everything is in order, if applicable. If you receive financial aid, please work with your financial aid director to arrange to have your funds transferred to ACG, if applicable.
+        \n▪ Designate a person (i.e. parent, legal guardian or other) who will be responsible for your financial affairs while you are abroad. You may want to get a signed, notarized power of attorney naming a person who can act on your behalf.
+        \n▪ Encourage parents, legal guardians and other family members to apply for passports as well in case they want to visit.
+        \n▪ Read your health insurance plan. Make sure you understand how it works and what it covers.
+        \n▪ If you are staying in the college residence complex, be sure to fill out and send the bed linen request form, should you wish to purchase any bed linen and/or towels.
+        \n
+        \n<font size="25"><b>1 month to go!</b></font>
+        \n
+        \n▪	Have an emergency fund of at least  €500.
+        \n▪	Bring the recommended amount of money for start-up costs. Check with our Study Abroad / International studies Office for specific recommendations.
+        \n▪	Arrange with your bank to have at least 100 Euros to bring with you.
+        \n▪	Make sure you have the credit and debit cards you plan to use and make sure they can be used internationally.
+        \n▪	Leave a photocopy of these cards with a responsible person (i.e. parent, legal guardian or other) at home.
+        \n▪	Be sure to make two photocopies of your passport and VISA (if applicable) and leave one with a trusted person at home (parent, etc) and bring one with you to keep in a separate place from your passport.
+        \n▪	Develop emergency contact procedures with your family and friends and provide them with the emergency contacts in this guide.
+        \n▪	Obtain all medical prescriptions, copies of the prescriptions, and adequate supplies for your stay in Athens. Keep these in your carry - on luggage in its original container. Be sure these medications are allowed in your host country.
+        \n▪	Plan a realistic budget. Take into account travel, housing, meals, souvenirs, entertainment, and general shopping.
+        \n▪	Make a list of important contact information at your home institution with whom you may need to contact while you are in Athens.
+        \n▪	Contact your bank to discuss your planned study abroad and matters concerning your accounts — for instance, withdrawal fees, daily ATM limits, how your cards will function overseas, setting up online accounts, etc.
+        \n▪	Pack lightly for your stay in Athens. Use our packing list in this guide for assistance.
+        \n
+        \n
+        \n<i>Some of this information was adopted from the Studyabroad .com website. You can access some of this information plus much more at <a href="http://www.studyabroad.com/">www.studyabroad.com</a></i>
+    </string>
+
+    <string name="buying_books_pre_guide">
+        \n<font size="35"><b><u>Buying Books</u></b></font>
+        \n
+        \n
+        DEREE-ACG students will find the required course textbook list on the College website in advance of each semester/session.
+        This practice makes the book acquisition process more efficient and less expensive for students. Students are free to choose
+        how they will purchase their textbooks and are expected to acquire them prior to the start of classes. To avoid delays with
+        some on-line providers, it is recommended that you place your order a minimum of 21 days in advance.
+        \n
+        \nPlease visit <a href="http://www.acg.edu/academics/textbooks for more info">http://www.acg.edu/academics/textbooks.</a>
+
+    </string>
+
+    <string name="health_pre_guide">
+        \n<font size="35"><b><u>Health</u></b></font>
+        \n
+        Students, like other travelers, may experience minor colds, coughs, and gastrointestinal and/or other health issues.
+        It is important to be aware of the things that can
+        affect your health and be prepared for a potential health issue, so that you can enjoy your time abroad more fully.
+        \n
+        \n<font size="25"><b>International Health Insurance</b></font>
+        \n
+        All international students are required to have international health insurance to cover illness and/or accident.
+        Proof of international health insurance must be provided prior arrival. Your home institution may provide health insurance
+        for study abroad students, so please check with your study abroad office.
+        \n
+        \n<font size="25"><b>Medical Prescriptions</b></font>
+        \n
+        Obtain all medical prescriptions, copies of the prescriptions, and adequate supplies for your stay in Athens.
+        Keep these in your carry-on luggage in its original container. If you have the need to fill a prescription while in Athens,
+        we recommend you contact home and have supplies mailed to you.
+        If you need medication while you are in Athens, we recommend the pharmacy located across the street from the College main gate. 
+        The pharmacist at this pharmacy, Christina Gaitani, speaks English. Students living in the college residence complex should first contact the Residence Assistants in the building for assistance and any one of the Office of 
+        Residential and International Student Services emergency contacts. We are here to assist you in the event of a health issue!
+    </string>
+
+    <string name="safety_pre_guide">
+        \n<font size="35"><b><u>Safety</u></b></font>
+        \n
+        \n<font size="25"><b>General Safety</b></font>
+        \n
+        When traveling overseas, use the same common sense that you would at home. Be cautious and avoid areas where you may be more easily victimized. These include crowded subways,
+        train stations, elevators, tourist sites, market places, festivals and crime-ridden neighborhoods.
+        \n•	Don’t use short cuts, narrow alleys or poorly lit streets.
+        \n•	Try not to travel alone at night. Use a buddy system.
+        \n•	Do not leave your purse or other valuables unattended in public places.
+        \n•	Do not go to or leave bars alone or with strangers.
+        \n•	Do not accept food or drink from strangers.
+        \n•	Do not discuss travel plans or other personal matters with strangers.
+        \n•	Let someone you trust know your travel plans. Keep them informed if you change your plans.
+        \n•	Avoid scam artists by being wary of strangers who approach you and offer to be your guide or sell you something at bargain prices.
+        \n•	Beware of pickpockets. They often have an accomplice who will: jostle you,
+        \n\t• ask you for directions or the time,
+        \n\t• point to something spilled on your clothing,
+        \n\t• or distract you by creating a disturbance.
+        \n•	Wear the shoulder strap of your bag across your chest and walk with the bag away from the curb to avoid drive-by purse-snatchers.
+        \n•	Avoid civil disturbances.
+        \n•	Learn a few phrases in the local language or have them handy in written form so that you can signal your need for police or medical help.
+        \n•	Make a note of emergency telephone numbers you may need: police, fire, your hotel, and the nearest U.S. embassy or consulate.
+        \n•	If you are confronted, don’t fight back; it is not worth your safety-- give up your valuables.
+        \n
+        \n<font size="25"><b>Hotel Safety</b></font>
+        \n
+        During your time abroad, you may travel to other cities or countries over night and stay in a hotel.
+        Please keep these safety tips in mind:
+        \n•	Be sure of the identity of visitors before opening the door of your hotel room.
+        \n•	Don’t meet strangers at your hotel room, or at unknown or remote locations. Meet visitors in the lobby.
+        \n•	Do not leave money and other valuables in your hotel room while you are out. Use the hotel safe.
+        \n•	If you are out late at night, let someone know when you are expected to return.
+        \n•	If you are alone, do not get on an elevator if there is a suspicious-looking person inside.
+        \n•	Read the fire safety instructions in your hotel room. Know how to report a fire, and be sure you know where the nearest fire exits and alternate exits are located. (Count the doors between your room and the nearest exit; this could be a lifesaver if you have to crawl through a smoke-filled corridor.)
+        \n
+        \n<font size="25"><b>Handling Money Safely</b></font>
+        \n
+        \n•	Avoid carrying large amounts of cash.
+        \n•	Do not flash large amounts of money when paying a bill.
+        \n•	Make sure your credit card is returned to you after each transaction.
+        \n•	Deal only with authorized agents when you exchange money, buy airline tickets or purchase souvenirs. Do not change money on the black market.
+        \n•	If your possessions are lost or stolen, report the loss immediately to the local police. Keep a copy of the police report for insurance claims and as an explanation of your plight.
+        \n•	After reporting missing items to the police, report the loss or theft of:
+        \n•	travelers’ checks to the nearest agent of the issuing company
+        \n•	credit cards to the issuing company
+        \n•	airline tickets to the airline or travel agent
+        \n•	passport to the nearest embassy or consulate of your country.
+        \n
+        \n<font size="25"><b>Avoiding Legal Difficulties</b></font>
+        \n
+        When you are in a foreign country, you are subject to its laws and are under its jurisdiction. It is your responsibility to be aware of the laws of Greece or other countries
+        you may be visiting, so you should familiarize yourself with legal expectations in the countries you will visit.
+        \n
+        \n<font size="35"><b><u>Safety</u></b></font>
+        \n
+        More than 1/3 of international citizens incarcerated abroad are held on drug charges. Some countries do not distinguish between possession and trafficking, and many have mandatory sentences - even for possession of a small amount of marijuana or cocaine. Others have been arrested for purchasing prescription drugs abroad in quantities that local authorities suspected were for commercial use.
+        If in doubt about foreign drug laws, ask local authorities or the nearest U.S. embassy or consulate.
+        \n
+        \n
+        \nThis information has been adapted and reprinted from the Travel.State.Gov Web site, a service of the Bureau of Consular Affairs. For additional information,
+        see the follow Web site: <a href="http://travel.state.gov/travel/tips/safety/safety_1747.html">http://travel.state.gov/travel/tips/safety/safety_1747.html</a>
+    </string>
+
+    <string name="packing_pre_guide">
+        \n<font size="35"><b><u>Packing</u></b></font>
+        \n
+        \n<font size="25"><b>With mild winters and warm summers, the climate of Athens is one of the best in Europe!</b></font>
+        \n
+        \n<b>Average Temperatures:</b>
+        \nSummer: June – August	60º - 90º F	15	º - 32	º C
+        \nFall: September – November	60º - 80º F	15	º - 26	º C
+        \nWinter: December – February	40º - 60º F	4	º - 15	º C
+        \nSpring: March – May	40º - 70º F	4	º - 21	º C
+        \n
+        \n
+        \n<font size="25"><b>What to Pack:</b></font>
+        \n<b>Essentials</b>
+        \n•	Important documents (passport, visa, itinerary, plane tickets, insurance card and information). Make sure to have a photocopy of all important documents.
+        \n•	€100 (make sure you have enough cash for a few days until you can find an ATM). If you have not done so by the time of your departure it is highly recommended that you use the exchange desk (located in the arrivals terminal) by the Athens International Airport.
+        \n•	Enough prescription drugs for the length of your stay; Backpack (for day trips and daily use) – You should use this as your carry-on so you’ll have less luggage.
+        \n•	Computer w/charger (If you do not wish to bring your own, you may access resources on campus.
+        \n•	Camera w/cords and charger
+        \n•	Adaptors will be provided with our complements
+        \n•	Sleep sack/sleeping bag (if you’re planning to do a lot of traveling and /or participating in outdoor activities. (i.e Camping trip to Parnassos Mountain).
+        \n
+        \n<font size="25"><b>Clothing/Shoes</b></font>
+        \n•	4-6 t-shirts
+        \n•	2-3 pants/skirts
+        \n•	2-3 Sweaters/Hoodies
+        \n•	Long sleeve shirts (Make sure they are good for layering)
+        \n•	Underwear
+        \n•	Pajamas (2 pair)
+        \n•	Warm slippers
+        \n•	Socks (a week’s worth) (you should include a few pairs of wool socks if you’re going to colder climates)
+        \n•	One set of workout clothes (if you plan to)
+        \n•	Thermal underwear (silk preferably for colder climates or the adventurous sort)
+        \n•	Coat/Jacket (water resistant with zip pockets and removable lining)
+        \n•	4-5 nice outfits (dress/ pants/skirt/dress) for special/formal occasions
+        \n•	2-3 Walking/ comfortable shoes
+        \n•	Flip flops (especially for showering at hostels)
+        \n•	Warm hat, gloves and scarf (for colder climates)
+        \n•	1 light jacket &amp; 1 medium weight jacket
+        \n•	2 pairs walking/
+        \n•	1 pair flip-flops or shower shoes
+        \n
+        \n<font size="25"><b>Toiletries (If you aren’t picky, a lot of these items can be found in your host country)</b></font>
+        \n
+        \n•	Shampoo/Conditioner
+        \n•	Toothbrush/toothpaste
+        \n•	Soap
+        \n•	Deodorant
+        \n•	Disposable razors (and other shaving supplies)
+        \n•	Brush/Comb (and hair ties if you have long hair)
+        \n•	Feminine Products
+        \n
+        \n
+        \n\t<font size="25"><b>Pack Smart!</b></font>
+        \n
+        \n
+        Firstly, you should keep your money, important documents, valuables, prescription medications, a change of clothing and some toiletries in your carry-on in case your luggage gets lost.
+        \n
+        Do not bring more than one normal-size suitcases and a carry-on. Most students pack more than they need. If you’re only coming for one semester, you only need one normal-size suitcase.
+        \n
+        Bring clothes that are easily layered for various climate conditions, do not need ironing, can be drip-dried, and are comfortable and durable. Make sure that all of your clothes are interchangeable, i.e. any of your shirts can go with any of your skirts/pants, etc. This will provide you with many more “outfits” on a daily basis even with limited clothing items.
+        \n
+        Remember that most electrical appliances will not work because of the different electrical current. It is usually better to just buy small electrical appliances (like hair dryers, curling irons, etc.) while in Athens.
+        \n
+        \n
+        \n\t\t<font size="35"><b>ΚΑΛΟ ΤΑΞΙΔΙ !</b></font>
+    </string>
+
+
+    <string name="edipidis">
+        \n<font size="20"><b>Maria Edipidi</b></font>
+        \n
+        \nDirector of International Enrollment
+        \nTel.: <a href="tel:+302106009800">+30 210 600 9800</a> | ext. 1412
+        \ne-mail: <a href="mailto:medipidi@acg.edu">medipidi@acg.edu</a>
+
+    </string>
+    <string name="daskalakis">
+        \n<font size="20"><b>George Daskalakis</b></font>
+        \n
+        \nDirector of Residential and International Student Services
+        \nTel.: <a href="tel:+302106009800">+30 210 600 9800</a> | ext. 1408
+        \ne-mail: <a href="mailto:gdaskalakis@acg.edu">gdaskalakis@acg.edu</a>
+
+    </string>
+    <string name="gerasimos">
+        \n<font size="20"><b>Gerasimos Papandrikopoulos</b></font>
+        \n
+        \nHousing and Residential Services Coordinator
+        \nTel.: <a href="tel:+302106009800">+30 210 600 9800</a> | ext. 1028
+        \ne-mail: <a href="mailto:g.papandrikopoulos@acg.edu">g.papandrikopoulos@acg.edu</a>
+
+    </string>
+    <string name="litsa">
+        \n<font size="20"><b>Petroula Litsa Panou</b></font>
+        \n
+        \nInternational Student Services Coordinator
+        \nTel.: <a href="tel:+302106009800">+30 210 600 9800</a> | ext. 1409
+        \ne-mail: <a href="mailto:p.panou@acg.edu">p.panou@acg.edu</a>
+
+    </string>
+    <string name="sklavenitis">
+        \n<font size="20"><b>Konstantinos Sklavenitis</b></font>
+        \n
+        \nInternational Student Services Coordinator
+        \nTel.: <a href="tel:+302106009800">+30 210 600 9800</a> | ext. 1207
+        \ne-mail: <a href="mailto:ksklavenitis@acg.edu">ksklavenitis@acg.edu</a>
+
+    </string>
+    <string name="matilda">
+        \n<font size="20"><b>Matilda Chatzipanagiotou</b></font>
+        \n
+        \nDirector, Office of Student Affairs
+        \nTel.: <a href="tel:+302106009800">+30 210 600 9800</a> | ext. 1029
+        \ne-mail: <a href="mailto:mchatzipanagiotou@acg.edu">mchatzipanagiotou@acg.edu</a>
+
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_livingathens_activity">Living in Athens</string>
+    <string name="title_activity_login_activity">Living in Athens</string>
+    <string name="title_activity_studyingatderee">Studying at DEREE</string>
+    <string name="title_activity_stayhealthyandsafe">Staying Healthy and Safe</string>
+    <string name="title_activity_travellingingreece">Travelling in Greece</string>
+    <string name="title_activity_otherusefulinfo">Other Useful Information</string>
+    <string name="title_activity_calendar">My Calendar</string>
+    <string name="title_activity_getstarted">Get Started</string>
+    <string name="title_activity_operhrs">Operating Hours: Shops and Restaurants</string>
+    <string name="title_activity_mailing">Mail Services</string>
+    <string name="title_activity_bankmoney">Banking and Money Tips</string>
+    <string name="title_activity_keepintouch">Keeping in Touch: Cell Phones and More</string>
+    <string name="title_activity_emergencycontact">Emergency Contact Information</string>
+    <string name="title_activity_arrivalchecklist">Arrival Checklist</string>
+    <string name="title_activity_studyabroadofficesrvc">Study Abroad Office Services</string>
+    <string name="title_activity_campusservices">Campus Services</string>
+    <string name="title_activity_buyingbooks">Buying Books</string>
+    <string name="title_activity_registrationgrades">Registration, Grades and Transcript</string>
+    <string name="title_activity_residencepermit">Residence Permit</string>
+    <string name="title_activity_emergencycontacts">Emergency Contacts</string>
+    <string name="title_activity_campuscontactinfo">Important Campus Contact Information</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_health">health</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cultureshock">Cultureshock</string>
+    <string name="title_activity_safety">Safety</string>
+    <string name="title_activity_transportation">Transportation</string>
+    <string name="title_activity_regionaltravel">Regionaltravel</string>
+    <string name="title_activity_losingapassport">Losingapassport</string>
+    <string name="title_activity_shoppinginathens">Shoppinginathens</string>
+    <string name="title_activity_athensmustsees">Athensmustsees</string>
+    <string name="title_activity_athensarchaelogicalsites">Athensarchaelogicalsites</string>
+    <string name="title_activity_experiencinggreece">Experiencinggreece</string>
+    <string name="title_activity_placesofworship">Placesofworship</string>
+    <string name="title_activity_greekkeywords">Greekkeywords</string>
+    <string name="title_activity_common_international_convs">CommonInternationalConvs</string>
+    <string name="title_activity_contact_us">ContactUS</string>
+    <string name="welcome_txt">GCM App</string>
+    <string name="email">Email Address</string>
+    <string name="login">Register Me</string>
+    <string name="defaultmsg">Message sent by server will appear here.</string>
+    <string name="msg_title">Message</string>
+    <string name="user_title">Hello User</string>
+
+    <string name="title_activity_my_acg_web_view">MyAcgWebView</string>
+    <string name="title_activity_philoxenia">PhiloxeniaActivity</string>
+    <string name="title_activity_display_maps">display_maps</string>
+    <string name="title_activity_testactivity">testactivity</string>
+    <string name="title_activity_events_json">EventsJSONActivity</string>
+
+
+</resources>

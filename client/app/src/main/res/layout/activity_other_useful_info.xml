@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.kostas.reslife.activities.OtherUsefulInfoActivity"
+    android:parentActivityName="com.example.kostas.reslife.activities.MainActivity"
+
+    android:background="@drawable/background2"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:id="@+id/otherusefulinfoimageView2"
+        android:layout_gravity="center_horizontal"
+        android:background="@null"
+        android:src="@drawable/other_useful_info_title" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:id="@+id/placesworship"
+            android:onClick="PlacesOfWorshipBTN"
+            android:background="@null"
+            android:src="@drawable/places_of_worship_drawable" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:id="@+id/greekphrases"
+            android:onClick="GreekKeyWordsBTN"
+            android:background="@null"
+            android:src="@drawable/greek_key_words_drawable" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:id="@+id/interconver"
+            android:onClick="CommonInternationalConversationsBTN"
+            android:background="@null"
+            android:src="@drawable/common_international_conversions_drawable" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:id="@+id/contactus"
+            android:onClick="ContactUsBTN"
+            android:background="@null"
+            android:src="@drawable/contact_us_drawable" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:id="@+id/imageButton"
+            android:onClick="GalleryBTN"
+            android:background="@null"
+            android:src="@drawable/photo_gallery_drawable" />
+
+    </LinearLayout>
+
+</LinearLayout>

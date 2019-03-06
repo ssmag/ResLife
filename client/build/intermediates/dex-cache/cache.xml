@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_24606ea4736d83dde8eb9f2b27b21d34fd57c442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.0_178e7d02113fcbc49312372187e73011b6102649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.0_0d59a0d7199c1061e5085d20ccb78e562f9a7743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_befbdc02099e3ce48081fa07c34c87e5e0e9dcb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_a26767885fe14f7404ce66aca0c159bf697e2fc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_da35a724b9125dc0001a141ec4edd5b1e3b46a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.0_b2c7b9500e7d6ecfa5ef24b4633b9eae9a860660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_40baa287961cbce94709eaf7ab68e9c0b6fc83a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.0_9282eb92b9094a09bf4a8d45ff1ee96a81f9601a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_80f2ad55b8bf72493aaf9777b2d44e6365d57fdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_62a778cfc86d3bfb261f0e5eaa933d77c819fc45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\okio-1.6.0_08156d15f4960e7a3a9d624cd506b183c4a5b537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_a5c8a7d4f4275b379c76881b69ef400c043ceae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_dfd3615925c8a1d8f60478ebcf0318b9895e71d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.0_9f557223f07677f7c83972f32130daf925371129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.2.0_bfc6c55b2e80e14b9545c6a12e48ab3d57a27fc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\Melpi\Desktop\ResLivez\Current\RTLS_bak\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.0_6e0d98e359ddb8ccb903a2d00676479c42261d3a.jar" />
+    </item>
+
+</items>

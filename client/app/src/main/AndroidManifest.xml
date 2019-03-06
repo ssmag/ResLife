@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kostas.reslife">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> -->
+    <!-- <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" /> -->
+    <!--
+ The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but are recommended.
+    -->
+    <!--
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    -->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/launcher_two"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/FullscreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- android:theme="@android:style/Theme.NoTitleBar -->
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name=".activities.LivingInAthensActivity"
+            android:label="@string/title_activity_livingathens_activity"
+            android:parentActivityName=".activities.MainActivity">
+
+            <!-- Parent activity meta-data to support API level 4+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kostas.reslife.activities.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.livingathens_activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.StudyingAtDereeActivity"
+            android:label="@string/title_activity_studyingatderee"
+            android:parentActivityName=".activities.MainActivity">
+
+            <!-- Parent activity meta-data to support API level 4+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kostas.reslife.activities.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.activities.StudyingAtDereeActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.StayHealthyAndSafeActivity"
+            android:label="@string/title_activity_stayhealthyandsafe">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.StayhealthyandsafeActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.TravellingInGreeceActivity"
+            android:label="@string/title_activity_travellingingreece">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.TravellingingreeceActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.OtherUsefulInfoActivity"
+            android:label="@string/title_activity_otherusefulinfo"
+            android:parentActivityName=".activities.MainActivity">
+
+            <!-- Parent activity meta-data to support API level 4+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kostas.reslife.activities.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.OtherusefulinfoActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.GetStartedActivity"
+            android:label="@string/title_activity_getstarted">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.GetstartedActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.OperHoursActivity"
+            android:label="@string/title_activity_operhrs">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.OperhrsActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.MailingActivity"
+            android:label="@string/title_activity_mailing">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.MailingActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.BankMoneyActivity"
+            android:label="@string/title_activity_bankmoney">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.BankmoneyActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.KeepInTouchActivity"
+            android:label="@string/title_activity_keepintouch">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.KeepintouchActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.ArrivalChecklistActivity"
+            android:label="@string/title_activity_arrivalchecklist">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.ArrivalchecklistActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.CampusServicesActivity"
+            android:label="@string/title_activity_campusservices">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.CampusservicesActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.BuyingBooksActivity"
+            android:label="@string/title_activity_buyingbooks">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.BuyingbooksActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.RegistrationGradesActivity"
+            android:label="@string/title_activity_registrationgrades">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.RegistrationgradesActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.ResidencePermitActivity"
+            android:label="@string/title_activity_residencepermit">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.ResidencepermitActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.EmergencyContactsActivity"
+            android:label="@string/title_activity_emergencycontacts"
+            android:parentActivityName=".activities.MainActivity">
+
+            <!-- Parent activity meta-data to support API level 4+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kostas.reslife.activities.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.EmergencycontactsActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.HealthActivity"
+            android:label="@string/title_activity_health">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.health" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.CultureShockActivity"
+            android:label="@string/title_activity_cultureshock">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.cultureshock" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.SafetyActivity"
+            android:label="@string/title_activity_safety">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Safety" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.TransportationActivity"
+            android:label="@string/title_activity_transportation">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Transportation" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.RegionalTravelActivity"
+            android:label="@string/title_activity_regionaltravel"
+            android:parentActivityName=".activities.MainActivity">
+
+            <!-- Parent activity meta-data to support API level 4+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kostas.reslife.activities.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Regionaltravel" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.LosingPassport"
+            android:label="@string/title_activity_losingapassport">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Losingapassport" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.ShoppingInAthensActivity"
+            android:label="@string/title_activity_shoppinginathens">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Shoppinginathens" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.AthensMustSeesActivity"
+            android:label="@string/title_activity_athensmustsees">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Athensmustsees" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.AthensArchaelogicalSitesActivity"
+            android:label="@string/title_activity_athensarchaelogicalsites">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Athensarchaelogicalsites" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.ExperiencingGreeceActivity"
+            android:label="@string/title_activity_experiencinggreece">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Experiencinggreece" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.PlacesOfWorshipActivity"
+            android:label="@string/title_activity_placesofworship">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Placesofworship" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.GreekKeywordsActivity"
+            android:label="@string/title_activity_greekkeywords">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Greekkeywords" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.CommonInternationalConvsActivity"
+            android:label="@string/title_activity_common_international_convs">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.CommonInternationalConvs" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".textactivities.ContactUsActivity"
+            android:label="@string/title_activity_contact_us">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.ContactUS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".webviews.MyAcgWebView"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_my_acg_web_view"
+            android:parentActivityName=".activities.MainActivity"
+            android:theme="@style/FullscreenTheme">
+
+            <!-- Parent activity meta-data to support API level 4+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kostas.reslife.activities.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.MyAcgWebView" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".webviews.BlackBoardWebView"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:parentActivityName=".activities.MainActivity"
+            android:theme="@style/FullscreenTheme">
+
+            <!-- Parent activity meta-data to support API level 4+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kostas.reslife.activities.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.NewBlackboardActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".webviews.PhiloxeniaWebView"
+            android:label="@string/title_activity_philoxenia">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.PhiloxeniaActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".map.MapPoints"
+            android:label="@string/title_activity_display_maps"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.display_maps" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".map.MapGoToDeree"
+            android:label="@string/title_activity_display_maps"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.display_maps" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.PreDepartureGuideActivity">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.Pre_departure_guide" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".textactivities.PreDepartureChecklist">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.PreDepartureChecklist" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".textactivities.HealthPreGuideActivity">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.HealthPreGuide" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".textactivities.SafetyPreGuideActivity">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.SafetyPreGuide" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".textactivities.PackingPreGuideActivity">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.PackingPreGuide" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".textactivities.BuyingBooksPreGuideActivity">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.BuyingBooksPreGuide" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".webviews.EventsWebView"
+            android:parentActivityName=".activities.MainActivity">
+
+            <!-- Parent activity meta-data to support API level 4+ -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kostas.reslife.activities.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.EventsWebView" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".gallery.GalleryActivity">
+            <intent-filter>
+                <action android:name="com.example.kostas.reslife.ImageSlider" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <service android:name=".notifications.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".notifications.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name=".activities.EventsJSONActivity"
+            android:label="@string/title_activity_events_json"
+            android:parentActivityName=".activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kostas.reslife.activities.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

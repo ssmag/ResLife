@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.kostas.reslife.activities.StayHealthyAndSafeActivity"
+    android:parentActivityName="com.example.kostas.reslife.activities.MainActivity"
+    android:background="@drawable/background2">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/stayhealthyimageView"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/stayinghealthyatdereetitle"
+            android:background="@null" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/health"
+                android:onClick="HealthBTN"
+                android:src="@drawable/health_drawable"
+                android:background="@null" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/cultureshock"
+                android:onClick="CultureShockBTN"
+                android:background="@null"
+                android:src="@drawable/culture_shock_drawable" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/safety"
+                android:onClick="SafetyBTN"
+                android:src="@drawable/safety_drawable"
+                android:background="@null" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

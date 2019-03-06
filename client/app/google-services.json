@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "561495419110",
+    "firebase_url": "https://communication-machine-1269.firebaseio.com",
+    "project_id": "communication-machine-1269",
+    "storage_bucket": "communication-machine-1269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561495419110:android:d1a15b94d9664a5b",
+        "android_client_info": {
+          "package_name": "com.example.kostas.reslife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561495419110-r1jdem4nkenr8e0tu4h0jfe5ntm0fdcj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "561495419110-7akrpc9dfq9kq4nis2554qafit680ctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ucn7H_vOxdgN0vsoJIWdTmd5TVlmyRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

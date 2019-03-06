@@ -1,0 +1,90 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.kostas.reslife.activities.PreDepartureGuideActivity"
+    android:background="@drawable/background2">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/predepimgview"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/predeparturetitle"
+            android:background="@null" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="300dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/predeparturechecklist"
+                android:onClick="PreDepartureChecklistBTN"
+                android:textColor="#080808"
+                android:textColorHighlight="#080808"
+                android:textColorHint="#080808"
+                android:textSize="26dp"
+                android:textStyle="bold"
+                android:background="@null"
+                android:src="@drawable/pre_departure_checklist_drawable" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/buyingbooks"
+                android:onClick="BuyingBooksBTN"
+                android:background="@null"
+                android:src="@drawable/buying_books_drawable" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/health"
+                android:onClick="HealthBTN"
+                android:background="@null"
+                android:src="@drawable/health_drawable" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/safety"
+                android:onClick="SafetyBTN"
+                android:background="@null"
+                android:src="@drawable/safety_drawable" />
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/packing"
+                android:onClick="PackingBTN"
+                android:background="@null"
+                android:src="@drawable/packing_drawable" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
